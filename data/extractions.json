@@ -1,1 +1,292 @@
-[]
+[
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000066",
+    "release_date": "2026-07-22",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 119796,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 96,428 | $ | 119,796"
+      },
+      "operating_income": {
+        "value": 40770,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,271 | 40,770"
+      },
+      "net_income": {
+        "value": 112193,
+        "unit": "USD millions",
+        "quote": "Net income | 28,196 | 112,193"
+      },
+      "diluted_eps": {
+        "value": 9.11,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.31 | $ | 9.11"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Revenues grew 24% and Google Cloud growth accelerated to 82%.",
+        "quote": "Q2 was an amazing quarter, with Alphabet revenues growing 24% year-over-year and Google Cloud revenues accelerating to 82% growth"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Operating income rose 30% and the operating margin widened to 34%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin expanded by 2 percentage points to 34%."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Other income was a large net gain, mainly unrealised gains on equity securities.",
+        "quote": "Other income reflected a net gain of $98.0 billion, primarily the result of net unrealized gains on our equity securities."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter amazing and describes outstanding results and momentum across the board."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000066.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/0001652044-26-000066-index.htm",
+    "saved_at": "2026-10-25T21:57:59+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000024",
+    "release_date": "2026-07-30",
+    "period_end": "2026-06-30",
+    "period_label": "quarter ended 30 June 2026",
+    "figures": {
+      "revenue": {
+        "value": 200606,
+        "unit": "USD millions",
+        "quote": "Total net sales | 167,702 | 200,606"
+      },
+      "operating_income": {
+        "value": 27461,
+        "unit": "USD millions",
+        "quote": "Operating income | 19,171 | 27,461"
+      },
+      "net_income": {
+        "value": 62647,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,164 | $ | 62,647"
+      },
+      "diluted_eps": {
+        "value": 5.75,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.68 | $ | 5.75"
+      }
+    },
+    "guidance": {
+      "text": "For the third quarter of 2026, Amazon expects net sales of $197.0 billion to $202.0 billion, growth of 9% to 12%.",
+      "quote": "Net sales are expected to be between $197.0 billion and $202.0 billion, or to grow between 9% and 12% compared with third quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "AWS grew 36.7%, its fastest growth in 18 quarters.",
+        "quote": "AWS is booming, growing 36.7% year-over-year in Q2—our fastest growth in 18 quarters"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Operating income rose to $27.5 billion from $19.2 billion a year earlier.",
+        "quote": "Operating income increased to $27.5 billion in the second quarter, compared with $19.2 billion in second quarter 2025."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Net income includes a large non-operating gain, mainly from investments in Anthropic.",
+        "quote": "Second quarter 2026 net income includes non-operating pre-tax other income of $53.4 billion, primarily from our investments in Anthropic."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says AWS is booming and that there is much more coming for customers in the second half."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000024.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260630xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/0001018724-26-000024-index.htm",
+    "saved_at": "2026-10-25T21:57:59+08:00"
+  },
+  {
+    "cik": "1326801",
+    "company": "Meta Platforms",
+    "accession": "0001628280-26-066700",
+    "release_date": "2026-10-21",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 64601,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 64,601 | $ | 51,242"
+      },
+      "operating_income": {
+        "value": 12988,
+        "unit": "USD millions",
+        "quote": "Income from operations | $ | 12,988 | $ | 20,535"
+      },
+      "net_income": {
+        "value": 9860,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 9,860 | $ | 2,709"
+      },
+      "diluted_eps": {
+        "value": 3.83,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share (EPS) | $ | 3.83 | $ | 1.05"
+      }
+    },
+    "guidance": {
+      "text": "Meta expects fourth quarter 2026 total revenue of $73-76 billion.",
+      "quote": "We expect fourth quarter 2026 total revenue to be in the range of $73-76 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says investments are paying off and the core business is strong.",
+        "quote": "Our investments are paying off, the core business is strong, and we're seeing velocity across the board."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Costs and expenses include a $9.89 billion charge from an agreement with state attorneys general.",
+        "quote": "Third quarter 2026 costs and expenses includes a $9.89 billion charge related to this agreement."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Meta raised its 2026 expense outlook to include the legal charge.",
+        "quote": "We now expect full year 2026 total expenses to be in the range of $175-179 billion."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says investments are paying off and the core business is strong; the CFO flags legal matters as a risk."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1326801-0001628280-26-066700.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/0001628280-26-066700-index.htm",
+    "saved_at": "2026-10-25T21:57:59+08:00"
+  },
+  {
+    "cik": "1320854",
+    "company": "FreightCar America, Inc.",
+    "accession": "0001193125-26-425341",
+    "release_date": "2026-10-19",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": {
+      "text": "The company lowered its 2026 outlook to revenue of $370 to $410 million.",
+      "quote": "Revenue | $370 – $410 million | $410 – $460 million"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The company removed a tank car retrofit order of 1,285 railcars from its backlog.",
+        "quote": "The Company has elected to remove 1,285 railcars related to its tank car retrofit order from its backlog"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says the adjustment is specific to one customer order and no other orders are affected.",
+        "quote": "This adjustment is specific to one customer order."
+      }
+    ],
+    "tone": {
+      "label": "cautious",
+      "reason": "The company removed a large order and cut its full-year outlook, though the CEO says other orders are unaffected."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1320854-0001193125-26-425341.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1320854/000119312526425341/rail-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1320854/000119312526425341/0001193125-26-425341-index.htm",
+    "saved_at": "2026-10-25T21:57:59+08:00"
+  },
+  {
+    "cik": "100517",
+    "company": "United Airlines Holdings, Inc.",
+    "accession": "0000100517-26-000184",
+    "release_date": "2026-10-20",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 17875,
+        "unit": "USD millions",
+        "quote": "Total operating revenue | 17,875 | 15,225"
+      },
+      "operating_income": {
+        "value": 1446,
+        "unit": "USD millions",
+        "quote": "Operating income | 1,446 | 1,395"
+      },
+      "net_income": {
+        "value": 1029,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 1,029 | $ | 949"
+      },
+      "diluted_eps": {
+        "value": 3.14,
+        "unit": "USD per share",
+        "quote": "Earnings per share, diluted | $ | 3.14 | $ | 2.90"
+      }
+    },
+    "guidance": {
+      "text": "United expects fourth quarter total operating revenue to grow by more than 20% year over year.",
+      "quote": "United expects Q4 total operating revenue growth to accelerate versus Q3 and set another record with an over 20% year-over-year increase"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Total operating revenue was a record, up 17% on a year earlier.",
+        "quote": "Q3 total operating revenue of $17.9 billion rose 17% year-over-year and set an all-time record"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Fuel expense was up $1.8 billion on the third quarter of 2025.",
+        "quote": "Fuel expense was up $1.8 billion compared to third-quarter 2025 as jet fuel prices remained volatile."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "United expects fourth quarter revenue growth to accelerate.",
+        "quote": "United expects Q4 total operating revenue growth to accelerate versus Q3"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO and headline stress record revenue, strong demand across all revenue streams and faster growth ahead."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/100517-0000100517-26-000184.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/100517/000010051726000184/ual_erx09302026xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/100517/000010051726000184/0000100517-26-000184-index.htm",
+    "saved_at": "2026-10-25T21:57:59+08:00"
+  }
+]
