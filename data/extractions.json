@@ -288,5 +288,97 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/100517/000010051726000184/ual_erx09302026xex991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/100517/000010051726000184/0000100517-26-000184-index.htm",
     "saved_at": "2026-10-25T21:57:59+08:00"
+  },
+  {
+    "cik": "1443575",
+    "company": "Avidbank Holdings, Inc.",
+    "accession": "0001437749-26-033518",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 10.184,
+        "unit": "USD millions",
+        "quote": "Net income / (loss) | $ | 10,184"
+      },
+      "diluted_eps": {
+        "value": 0.94,
+        "unit": "USD per share",
+        "quote": "Diluted earnings / (loss) per share | 0.94"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says the bank generated strong profitability while growing loans and deposits.",
+        "quote": "We generated strong profitability while continuing to grow both loans and deposits"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "A temporary large client deposit added to net interest income but put pressure on the net interest margin.",
+        "quote": "The temporary deposit contributed to net interest income but created some pressure on our net interest margin."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO is very pleased with the quarter and calls profitability and deposit growth strong."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1443575-0001437749-26-033518.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1443575/000143774926033518/ex_1004920.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1443575/000143774926033518/0001437749-26-033518-index.htm",
+    "saved_at": "2026-10-27T16:12:22+08:00"
+  },
+  {
+    "cik": "1709442",
+    "company": "FIRSTSUN CAPITAL BANCORP",
+    "accession": "0001709442-26-000051",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 38.382,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | 38,382"
+      },
+      "diluted_eps": {
+        "value": 0.82,
+        "unit": "USD per share",
+        "quote": "Diluted earnings (loss) per share | $ | 0.82"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "margins",
+        "claim": "The CEO says net interest margin improved because of balance sheet improvements.",
+        "quote": "an improved net interest margin as a result of continued balance sheet improvements"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says operating synergies were realised after the First Foundation acquisition.",
+        "quote": "benefits from operating synergies realized following the acquisition of First Foundation in the second quarter"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO cites progress on priorities, improved earnings and a strong diversified revenue profile."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1709442-0001709442-26-000051.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1709442/000170944226000051/exhibit991-earningspressre.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1709442/000170944226000051/0001709442-26-000051-index.htm",
+    "saved_at": "2026-10-27T16:12:22+08:00"
   }
 ]

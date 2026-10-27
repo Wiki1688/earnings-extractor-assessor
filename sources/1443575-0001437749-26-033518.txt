@@ -1,0 +1,475 @@
+Company: Avidbank Holdings, Inc. (CIK 1443575)
+Accession: 0001437749-26-033518
+Results released: 2026-10-26
+Press release: https://www.sec.gov/Archives/edgar/data/1443575/000143774926033518/ex_1004920.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1443575/000143774926033518/0001437749-26-033518-index.htm
+Saved: 2026-10-27T16:12:22+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex_1004920.htm EXHIBIT 99.1
+Exhibit 99.1
+FOR IMMEDIATE RELEASE
+PRESS RELEASE
+Avidbank Holdings, Inc. Announces Financial Results for the Third Quarter of 2026
+SAN JOSE, CA (ACCESS Newswire) – October 26, 2026 – Avidbank Holdings, Inc. (NASDAQ: AVBH) (the “Company” or “Avidbank Holdings”), the holding company for Avidbank, a California state-chartered bank (the “Bank”), announced net income for the third quarter of 2026 of $10.2 million, or $0.94 per diluted share, compared to net income of $7.6 million, or $0.71 per diluted share, for the second quarter of 2026 and a net loss of $37.7 million, or $4.12 loss per diluted share, for the third quarter of 2025.
+Third Quarter 2026 Highlights
+● | Period-end loans, net of deferred fees, increased $58.4 million, or 10% annualized, from June 30, 2026 and $323.9 million, or 17%, from September 30, 2025.
+● | Average deposits increased $283.8 million, or 51% annualized, from the second quarter of 2026 and $449.9 million, or 22%, from the third quarter of 2025. Period-end deposits increased $290.1 million, or 50% annualized, from June 30, 2026 and $562.9 million, or 27%, from September 30, 2025.
+● | Return on average equity was 13.43% compared to 10.40% in the second quarter of 2026 and (63.19)% in the third quarter of 2025. Adjusted return on average equity (1) was 13.43% compared to 11.15% in the second quarter of 2026 and 11.23% in the third quarter of 2025.
+● | Return on average assets was 1.42% compared to 1.20% in the second quarter of 2026 and (6.35)% in the third quarter of 2025. Adjusted return on average assets (1) was 1.42% compared to 1.28% in the second quarter of 2026 and 1.13% in the third quarter of 2025.
+● | Net interest margin was 4.07%, down 19 basis points from the second quarter of 2026 and up 17 basis points from the third quarter of 2025.
+● | The efficiency ratio was 49.80% compared to 55.41% in the second quarter of 2026 and (35.28)% in the third quarter of 2025. The adjusted efficiency ratio (1) was 49.80% compared to 48.73% in the second quarter of 2026 and 55.72% in the third quarter of 2025.
+● | Book value per share was $27.24 at September 30, 2026, an increase of $0.27 from June 30, 2026, and an increase of $2.24 from September 30, 2025.
+● | Redeemed $22.0 million of callable subordinated notes and closed on a $30.0 million private placement of new subordinated notes. The new subordinated notes have a maturity date of September 1, 2036, and carry a fixed rate of interest of 7.00% for the first five years.
+● | Non-performing loans to total loans increased to 0.70% as of September 30, 2026 compared to 0.65% and 0.14% at June 30, 2026 and September 30, 2025, respectively. Annualized net charge-offs to average loans totaled 0.00% for the third quarter of 2026 and 0.28% year-to-date 2026.
+Mark Mordell, Chairman and Chief Executive Officer stated, “We are very pleased with our third-quarter performance. We generated strong profitability while continuing to grow both loans and deposits, demonstrating the power of our ability to grow our franchise and the benefits of more consistent execution. The quarter’s deposit growth was exceptionally strong. A significant amount of that deposit growth came from a temporary large client deposit that we expect to leave in the fourth quarter, but our bankers also delivered meaningful core deposit growth across the franchise. The temporary deposit contributed to net interest income but created some pressure on our net interest margin.”
+Mordell concluded, “With strong capital, a diversified balance sheet and proactive credit management, we remain focused on generating consistent growth and creating long-term value for our shareholders.”
+(1) A non-GAAP performance measure. We provide detailed reconciliations in the “Non-GAAP Performance and Financial Measures Reconciliation” table.
+2
+Avidbank Holdings, Inc. Third Quarter 2026 Financial Results Press Release
+Results of Operations
+Net interest income totaled $28.7 million for the third quarter of 2026, an increase of $2.0 million, or 30% annualized, from the second quarter of 2026, and an increase of $6.0 million, or 27%, from the third quarter of 2025. The increase in net interest income compared to the prior quarter was primarily due to temporarily higher deposit balances resulting in higher cash balances, along with higher average loan balances and higher balances of debt securities. The increase compared to the third quarter of 2025 was driven by higher average loan balances, higher yields on securities, lower deposit costs and lower average short-term borrowings. For the nine months ended September 30, 2026, net interest income increased $19.6 million, or 31%, compared to the nine months ended September 30, 2025.
+Net interest margin was 4.07% in the third quarter of 2026, a decrease of 19 basis points compared to the second quarter of 2026, and a 17 basis point increase compared to the third quarter of 2025. The decrease in net interest margin compared to the prior quarter was primarily driven by a $205 million increase in average interest-earning cash balances primarily due to temporarily higher deposit balances, impacting the net interest margin by approximately 17 basis points.
+The increase in net interest margin compared to the third quarter of 2025 was primarily driven by higher yields on securities, lower cost of deposits and lower rates and balances on short-term borrowings. For the nine months ended September 30, 2026, net interest margin was 4.23%, an increase of 55 basis points from 3.68% for the nine months ended September 30, 2025.
+The yield on loans in the third quarter of 2026 was 6.66%, relatively flat compared to the second quarter of 2026 and a decrease of 32 basis points from the third quarter of 2025, primarily driven by reductions in the Prime rate. The yield on securities increased in the third quarter of 2026 to 4.77% compared to 4.68% in the second quarter of 2026 due to securities purchases and increased from 2.55% in the third quarter of 2025 due to the balance sheet restructuring in 2025. For the nine months ended September 30, 2026, loan yields decreased 31 basis points while the yield on securities increased 229 basis points compared to the same period in the prior year.
+The yield on interest-earning assets decreased 19 basis points during the third quarter of 2026 compared to the second quarter of 2026 and decreased 24 basis points compared to the third quarter of 2025. The decrease from the second quarter of 2026 was primarily driven by an increase in average loan balances and average interest-earning deposits as well as higher average balances of debt securities. The increase in interest-earning cash balances from the temporary increase in deposits during the third quarter of 2026 was estimated to negatively impact the yield on interest-earning assets by 20 basis points. The decrease compared to the third quarter of 2025 was primarily due to higher average loan balances, higher average interest-earning deposits and higher yields on our debt securities portfolio following the balance sheet restructuring. For the nine months ended September 30, 2026, the yield on interest-earning assets decreased 1 basis point compared to the same period in the prior year.
+The cost of interest-bearing deposits in the third quarter of 2026 was 2.97%, a decrease of 9 basis points compared to the second quarter of 2026 and a decrease of 53 basis points compared to the third quarter of 2025. The cost of deposits in the third quarter of 2026 was 2.29%, flat compared to the second quarter of 2026 and a decrease of 38 basis points from the third quarter of 2025, primarily driven by the reduction in the Federal Funds rate. Overall funding costs decreased 9 basis points from the second quarter of 2026 and decreased 55 basis points compared to the third quarter of 2025. For the nine months ended September 30, 2026, the cost of interest-bearing deposits was 3.00%, a decrease of 52 basis points compared to the same period in the prior year. The cost of deposits for the nine months ended September 30, 2026, was down 46 basis points compared to the same period in 2025, while overall funding costs declined 58 basis points for the same period compared to the prior year.
+The provision for credit losses was $1.2 million in the third quarter of 2026, compared to $2.8 million in the second quarter of 2026 and $1.4 million in the third quarter of 2025. The provision was lower in the third quarter of 2026 compared to the second quarter of 2026 primarily due to a $1.9 million partial charge-off of one non-performing construction loan during the second quarter of 2026. The provision was lower compared to the third quarter of 2025 due to the addition of a $1.5 million non-performing commercial and industrial loan in the third quarter of 2025. For the nine months ended September 30, 2026, the provision for credit losses totaled $5.4 million compared to $2.3 million for the nine months ended September 30, 2025.
+3
+Avidbank Holdings, Inc. Third Quarter 2026 Financial Results Press Release
+Non-interest income was $1.7 million in the third quarter of 2026 compared to $3.1 million in the second quarter of 2026 and a loss of $60.9 million in the third quarter of 2025. The decrease during the third quarter of 2026 was primarily driven by income of approximately $1.3 million on the death benefit proceeds of BOLI policies received during the second quarter of 2026. The increase compared to the third quarter of 2025 was due to the loss on the sale of securities resulting from the repositioning of the available-for-sale securities portfolio during the third quarter of 2025. For the nine months ended September 30, 2026, non-interest income totaled $6.2 million compared to a loss of $58.1 million for the nine months ended September 30, 2025.
+Non-interest expense totaled $15.1 million for the third quarter of 2026, compared to $16.5 million in the second quarter of 2026 and $13.5 million in the third quarter of 2025. The decrease in non-interest expense was due to the $2.6 million settlement of outstanding litigation during the second quarter of 2026, partially offset by an increase in salaries and employee benefits during the third quarter of 2026. For the nine months ended September 30, 2026, non-interest expense totaled $45.7 million, an increase of $6.7 million, or 17%, compared to the same period in the prior year. Excluding the litigation settlement, adjusted non-interest expense (1) in the third quarter of 2026 increased $1.3 million primarily due to an increase of $615 thousand in salaries and employee benefits and a $419 thousand increase in legal and professional fees, including higher recruiting fees and credit-related legal fees. There were 171 full-time equivalent employees on September 30, 2026, compared to 162 on June 30, 2026, and 151 on September 30, 2025.
+The effective tax rate for the third quarter of 2026 was 27.7% compared to 27.0% in the second quarter of 2026 and 28.9% in the third quarter of 2025. The increase compared to the second quarter of 2026 was primarily due to the recognition of approximately $1.3 million in tax-exempt BOLI proceeds during the second quarter of 2026. For the nine months ended September 30, 2026, the effective tax rate was 27.4% compared to 28.5% for the same period of the prior year due to state tax impacts from changes in California law requiring financial institutions to apportion business income using a single sales factor for tax years beginning on or after January 1, 2025. As a result, the second quarter of 2025 included $153 thousand in additional tax expense related to the write-down of deferred tax assets. In addition, the first nine months of 2026 included approximately $881 thousand in discrete tax benefits related to the vesting of equity awards compared to approximately $121 thousand for the same period in 2025.
+Financial Condition
+Total assets were $2.97 billion as of September 30, 2026, compared to $2.66 billion as of June 30, 2026, and $2.36 billion as of September 30, 2025. Cash and cash equivalents were $354.1 million on September 30, 2026, compared to $159.9 million on June 30, 2026, and $177.3 million on September 30, 2025. The increase in cash and cash equivalents was primarily due to a temporary increase in deposit balances during the third quarter of 2026.
+Loans, net of deferred fees, on September 30, 2026, totaled $2.28 billion, an increase of $58.4 million, or 10% annualized, from June 30, 2026, and an increase of $323.9 million, or 17%, from September 30, 2025. Loan growth during the third quarter of 2026 included increases of $20.7 million in commercial and industrial loans, $17.8 million in multi-family loans, $13.6 million in owner-occupied real estate loans, and $8.8 million in non-owner-occupied real estate loans, partially offset by a decrease of $2.6 million in construction and land loans.
+The allowance for credit losses on loans was $22.8 million on September 30, 2026, an increase of $1.3 million from June 30, 2026, and an increase of $1.8 million compared to September 30, 2025. The allowance for credit losses – loans and unfunded commitments to total loans was 1.11 % on September 30, 2026, compared to 1.09 % on June 30, 2026 and 1.19 % as of September 30, 2025. Non-performing loans to total loans was 0.70% at September 30, 2026, up 5 basis points compared to June 30, 2026 and up 56 basis points from September 30, 2025. The increase in the third quarter of 2026 was due to a land loan totaling $1.5 million being placed on nonaccrual.
+The available-for-sale securities portfolio totaled $279.7 million as of September 30, 2026, compared to $232.2 million at June 30, 2026, and $173.6 million as of September 30, 2025. The net unrealized loss on the available-for-sale portfolio totaled $13.1 million as of September 30, 2026, compared to $2.8 million at June 30, 2026 and $689 thousand as of September 30, 2025.
+(1) A non-GAAP performance measure. We provide detailed reconciliations in the “Non-GAAP Performance and Financial Measures Reconciliation” table.
+4
+Avidbank Holdings, Inc. Third Quarter 2026 Financial Results Press Release
+Deposits were $2.61 billion on September 30, 2026, an increase of $290.1 million, or 50% annualized, from June 30, 2026, and an increase of $562.9 million, or 27% from September 30, 2025. The change in deposits during the third quarter of 2026 included a $345.4 million increase in money market and savings deposits, including the impact of approximately $270.0 million from a temporary deposit, an increase of $30.3 million in interest-bearing demand deposits, and a $3.2 million increase in time deposits, partially offset by a decrease of $55.5 million in non-reciprocal brokered deposits and a decrease of $33.4 million in non-interest-bearing checking deposits. Quarterly average deposits for the third quarter of 2026 were $2.49 billion, an increase of $283.8 million from the second quarter of 2026, and an increase of $449.9 million from the third quarter of 2025. Average money market and savings deposits increased $198.8 million compared to the second quarter of 2026 and $275.4 million compared to the third quarter of 2025. Average non-interest-bearing demand deposits increased $19.1 million compared to the second quarter of 2026 and $88.9 million compared to the third quarter of 2025.
+There were no short-term borrowings outstanding at September 30, 2026, June 30, 2026, or September 30, 2025. During the third quarter of 2026, the Company issued $30.0 million of new 7.00% fixed-to-floating rate subordinated notes due 2036 and used a portion of the proceeds to retire all $22.0 million of its fixed-to-floating rate subordinated notes due 2029. The new subordinated notes carry a fixed rate of interest of 7.00% for the first five years after issuance and are not redeemable until September 1, 2031 (or any interest payment date thereafter) except in certain limited circumstances.
+Book value per share was $27.24 at September 30, 2026, an increase of $0.27 from June 30, 2026. The increase was partially offset by a $7.4 million increase in accumulated other comprehensive loss, net of tax, primarily due to the impact of higher interest rates on the fair value of available-for-sale securities. Accumulated other comprehensive loss reduced book value per share by $0.85 at September 30, 2026, compared to $0.17 at June 30, 2026. Total shareholders’ equity was $299.5 million on September 30, 2026, an increase of $3.3 million compared to June 30, 2026, and an increase of $26.4 million from September 30, 2025. No shares were repurchased during the third quarter of 2026, compared to 25,000 shares repurchased during the first half of 2026.
+Other Information
+The Company will host a conference call on October 27, 2026, at 11:00 a.m. (Eastern Time) / 8:00 a.m. (Pacific Time) to discuss the earnings results for the third quarter of 2026. Investors may call in by dialing (833) 461-5787 within the US and +1(585) 542-9983 for all other locations (Conference ID: 530 848 984). Participants may also pre-register for the conference by navigating to https://events.q4inc.com/attendee/530848984.
+Alternatively, individuals may listen to a live webcast of the presentation by visiting the link on the Company's website at www.avidbank.com under About Us, Investor Relations. An audio replay of the live webcast is expected to be available by the evening of October 27, 2026, through the Investor Relations section of the Company's website. The recording will be available for one year from the day of posting. Information which may be discussed on the conference call is provided in an earnings supplement presentation available on the Company’s website and furnished to the SEC and available at www.sec.gov.
+About Avidbank Holdings
+Avidbank Holdings, Inc. (NASDAQ: AVBH), headquartered in San Jose, California, offers innovative financial solutions and services. We specialize in commercial and industrial lending, venture lending, structured finance, asset-based lending, sponsor finance, fund finance, real estate construction and commercial real estate lending. Avidbank provides a different approach to banking. We do what we say.
+Non-GAAP Financial Measures
+This press release includes financial information prepared in accordance with accounting principles generally accepted in the United States (“GAAP”). This press release also includes non-GAAP financial information, which should be considered supplemental to, and not a substitute for or superior to, the financial measure calculated in accordance with GAAP. Management has presented these non-GAAP financial measures because we believe that these measures provide useful information to management and investors that is supplementary to our financial condition, results of operations and cash flows computed in accordance with GAAP. Management believes that adjusted net income, adjusted diluted earnings per share, adjusted return on average assets, adjusted return on average equity, adjusted non-interest expense, adjusted efficiency ratio, taxable equivalent net interest income and taxable equivalent net interest margin are reasonable measures to understand the Company’s core operating performance and are important to many investors who are interested in understanding our profitability prospects from our core operations.
+However, we acknowledge that our non-GAAP financial measures have a number of limitations. As such, you should not view these disclosures as a substitute for results determined in accordance with GAAP, and they are not necessarily comparable to non-GAAP financial measures that other banking companies use. Other banking companies may use names similar to those we use for the non-GAAP financial measures we disclose but may calculate them differently. You should understand how we and other companies each calculate their non-GAAP financial measures when making comparisons. For a description of the non-GAAP financial information included herein and reconciliations to the most directly comparable GAAP measure, see the “Non-GAAP Performance and Financial Measures Reconciliation” table.
+5
+Forward-Looking Statements
+This press release contains forward-looking statements within the meaning of U.S. federal securities laws, which involve risks and uncertainties. You should not place undue reliance on forward-looking statements because they are subject to numerous uncertainties and factors relating to our operations and business, all of which are difficult to predict and many of which are beyond our control. All statements, other than statements of historical fact, are forward-looking statements. Forward-looking statements include statements concerning our possible or assumed financial condition, results of operations, including descriptions of our business plans, strategy and expectations, capital and financing needs and liquidity and regulatory and competitive outlook. These forward-looking statements are generally identified by the use of forward-looking terminology, including the terms “anticipate,” “believe,” “could,” “estimate,” “expect,” “intend,” “may,” “plan,” “potential,” “predict,” “project,” “should,” “target,” “will,” “would” and, in each case, their negative or other variations or comparable terminology and expressions. The results, events and circumstances reflected in the forward-looking statements may not be achieved or occur, and actual results, events, or circumstances could differ materially from those described in the forward-looking statements. We caution that the forward-looking information and statements are based largely on our expectations and are subject to a number of known and unknown risks and uncertainties that are subject to change based on factors which are, in many instances, beyond our control. Such forward-looking statements are based on various assumptions (some of which may be beyond our control) and are subject to risks and uncertainties, which change over time, and other factors which could cause actual results to differ materially from those currently anticipated. Such risks and uncertainties include, but are not limited to: uncertain market conditions and economic trends nationally, regionally and particularly in the Bay Area (which we define as the counties of Alameda, Contra Costa, Marin, Monterey, Napa, San Francisco, San Mateo, Santa Clara, Santa Cruz, Solano and Sonoma) and California; economic conditions affecting the venture capital and private equity industries, including any decline in overall portfolio company investment, merger and acquisition activity and other liquidity events affecting venture and private equity fund and their portfolio companies; risks related to the concentration of our business in California, and specifically within the Bay Area, including risks associated with any downturn in the real estate sector; the effects of a prolonged government shutdown; the occurrence of significant natural disasters, including fires and earthquakes, geopolitical events, and acts of war or terrorism; the effects of natural or man-made disasters, including the effects of pandemic viruses; changes in market interest rates that affect the pricing of our loans and deposits and our net interest income; risks related to our strategic focus on lending to small to medium-sized businesses; the sufficiency of the assumptions and estimates we make in establishing reserves for potential loan losses and the value of loan collateral and securities; our ability to attract and retain executive officers and key employees, including their client and community relationships; our ability to successfully manage any chief executive officer transition; adverse changes in the financial performance and/or condition of our borrowers and, as a result, increased loan delinquency rates, deterioration in asset quality and losses in our loan portfolio; the costs of and effects of legal and regulatory developments, including legal proceedings and lawsuits we are or may become subject to; the results of regulatory examinations or reviews and the effect of and our ability to comply with, any regulations or regulatory orders or actions we are or may become subject to; our level of non-performing assets and the costs associated with resolving problem loans; our ability to maintain adequate liquidity and to raise necessary capital to fund our growth strategy and operations or to meet increased minimum regulatory capital levels; the effects of increased competition from a wide variety of local, regional, national and other providers of financial services; technological changes and developments; negative trends in our market capitalization and adverse changes in the price of our common stock; risks associated with unauthorized access, cyber-crime and other threats to data security; the effects of any strategic transactions we may make or evaluate, and the costs associated with any potential or actual strategic transaction; our ability to comply with various governmental and regulatory requirements applicable to financial institutions, including supervisory actions by federal and state banking agencies; the impact of recent and future legislative and regulatory changes, including changes in banking, accounting, securities and tax laws and regulations and their application by our regulators, and economic stimulus programs; governmental monetary and fiscal policies, including the policies of the Federal Reserve and policies related to tariffs; our ability to implement, maintain and improve effective internal controls; and our success at managing any of the risks involved in the foregoing items. Additional factors that could cause actual results to differ materially from those expressed in the forward-looking statements are discussed in the Company's filings with the SEC, including the Company’s most recent annual report on Form 10-K and quarterly reports on Form 10-Q under the heading “Risk Factors” therein and available at the SEC’s Internet site www.sec.gov. The foregoing factors should not be considered exhaustive. New risks and uncertainties may emerge from time to time, and it is not possible for us to predict their occurrence or how they will affect us. If one or more of the factors affecting our forward-looking information and statements prove incorrect, then our actual results, performance or achievements could differ materially from those expressed in, or implied by, forward-looking information. Therefore, we caution you not to place undue reliance on our forward-looking information and statements. We disclaim any duty to revise or update the forward-looking statements, whether written or oral, to reflect actual results or changes in the factors affecting the forward-looking statements, except as specifically required by law.
+Contact:
+Patrick Oakes
+Executive Vice President and Chief Financial Officer
+408-200-7390
+IR@avidbank.com
+6
+AVIDBANK HOLDINGS, INC.
+Selected Financial Data (Unaudited)
+For the Three Months Ended | For the Nine Months Ended
+Sept. 30, | June 30, | March 31, | Dec. 31, | Sept. 30, | Sept. 30, | Sept. 30,
+(In thousands, except share and per share amounts) | 2026 | 2026 | 2026 | 2025 | 2025 | 2026 | 2025
+INCOME HIGHLIGHTS
+Net income / (loss) | $ | 10,184 | $ | 7,647 | $ | 9,021 | $ | 6,949 | $ | (37,735 | ) | $ | 26,852 | $ | (26,502 | )
+Net income – adjusted (2) | 10,184 | 8,197 | 9,021 | 6,949 | 6,707 | 27,402 | 17,940
+PER SHARE DATA
+Basic earnings / (loss) per share | $ | 0.96 | $ | 0.72 | $ | 0.85 | $ | 0.66 | $ | (4.12 | ) | $ | 2.53 | $ | (3.28 | )
+Diluted earnings / (loss) per share | 0.94 | 0.71 | 0.84 | 0.65 | (4.12 | ) | 2.49 | (3.28 | )
+Diluted earnings per share – adjusted (2) | 0.94 | 0.76 | 0.84 | 0.65 | 0.72 | 2.54 | 2.18
+Book value per share | 27.24 | 26.97 | 26.33 | 25.66 | 25.00 | 27.24 | 25.00
+PERFORMANCE MEASURES
+Return on average assets (1) | 1.42 | % | 1.20 | % | 1.46 | % | 1.12 | % | (6.35 | )% | 1.36 | % | (1.53 | )%
+Return on average assets – adjusted (1) (2) | 1.42 | % | 1.28 | % | 1.46 | % | 1.12 | % | 1.13 | % | 1.39 | % | 1.03 | %
+Return on average equity (1) | 13.43 | % | 10.40 | % | 12.74 | % | 9.90 | % | (63.19 | )% | 12.20 | % | (16.88 | )%
+Return on average equity – adjusted (1) (2) | 13.43 | % | 11.15 | % | 12.74 | % | 9.90 | % | 11.23 | % | 12.45 | % | 11.42 | %
+Net interest margin (1) | 4.07 | % | 4.26 | % | 4.38 | % | 4.13 | % | 3.90 | % | 4.23 | % | 3.68 | %
+Efficiency ratio | 49.80 | % | 55.41 | % | 50.35 | % | 51.72 | % | (35.28 | )% | 51.87 | % | 938.30 | %
+Efficiency ratio – adjusted (2) | 49.80 | % | 48.73 | % | 50.35 | % | 51.72 | % | 55.72 | % | 49.63 | % | 58.51 | %
+Average loans to average deposits | 89.36 | % | 99.32 | % | 99.98 | % | 94.78 | % | 94.14 | % | 95.86 | % | 96.05 | %
+CAPITAL
+Tier 1 leverage ratio (3) | 10.82 | % | 11.50 | % | 11.39 | % | 11.23 | % | 11.14 | % | 10.82 | % | 11.10 | %
+Common equity tier 1 capital ratio (3) | 11.45 | % | 11.35 | % | 11.39 | % | 11.05 | % | 11.68 | % | 11.45 | % | 11.68 | %
+Tier 1 risk-based capital ratio (3) | 11.45 | % | 11.35 | % | 11.39 | % | 11.05 | % | 11.68 | % | 11.45 | % | 11.68 | %
+Total risk-based capital ratio (3) | 13.48 | % | 12.79 | % | 12.85 | % | 12.57 | % | 13.48 | % | 13.48 | % | 13.48 | %
+Common equity ratio | 10.10 | % | 11.13 | % | 11.18 | % | 10.93 | % | 11.56 | % | 10.10 | % | 11.56 | %
+SHARES OUTSTANDING
+Number of common shares outstanding | 10,996,074 | 10,982,764 | 10,955,167 | 10,947,967 | 10,925,102 | 10,996,074 | 10,925,102
+Weighted average shares outstanding – basic | 10,626,969 | 10,607,949 | 10,600,902 | 10,579,753 | 9,168,707 | 10,612,036 | 8,069,830
+Weighted average shares outstanding – diluted | 10,803,901 | 10,776,924 | 10,773,884 | 10,754,488 | 9,168,707 | 10,785,050 | 8,069,830
+Weighted average shares outstanding – diluted – adjusted (2) | 10,803,901 | 10,776,924 | 10,773,884 | 10,754,488 | 9,353,444 | 10,785,050 | 8,247,765
+ASSET QUALITY
+Total allowance for credit losses-loans and unfunded commitments to total loans | 1.11 | % | 1.09 | % | 1.07 | % | 1.15 | % | 1.19 | % | 1.11 | % | 1.19 | %
+Non-performing assets to total assets | 0.54 | % | 0.54 | % | 0.63 | % | 0.95 | % | 0.12 | % | 0.54 | % | 0.12 | %
+Non-performing loans to total loans | 0.70 | % | 0.65 | % | 0.75 | % | 1.14 | % | 0.14 | % | 0.70 | % | 0.14 | %
+Net charge-offs to average loans (1) | 0.00 | % | 0.35 | % | 0.52 | % | 0.30 | % | (0.01 | )% | 0.28 | % | (0.01 | )%
+AVERAGE BALANCES
+Loans, net of deferred fees | $ | 2,228,603 | $ | 2,195,164 | $ | 2,150,688 | $ | 2,024,325 | $ | 1,924,537 | $ | 2,191,770 | $ | 1,890,413
+Debt securities available-for-sale | 262,585 | 219,942 | 216,507 | 196,462 | 181,154 | 233,180 | 256,650
+Total assets | 2,845,991 | 2,565,538 | 2,504,616 | 2,459,110 | 2,357,158 | 2,639,965 | 2,323,365
+Deposits | 2,494,085 | 2,210,267 | 2,151,059 | 2,135,876 | 2,044,228 | 2,286,394 | 1,968,059
+Shareholders' equity | 300,781 | 294,826 | 287,191 | 278,382 | 236,903 | 294,316 | 209,965
+PERIOD-END BALANCES
+Loans, net of deferred fees | $ | 2,282,528 | $ | 2,224,119 | $ | 2,172,846 | $ | 2,148,439 | $ | 1,958,585 | $ | 2,282,528 | $ | 1,958,585
+Debt securities available-for-sale | 279,712 | 232,196 | 210,583 | 218,160 | 173,588 | 279,712 | 173,588
+Total assets | 2,966,832 | 2,660,440 | 2,579,554 | 2,569,643 | 2,362,454 | 2,966,832 | 2,362,454
+Deposits | 2,612,046 | 2,321,948 | 2,199,319 | 2,186,073 | 2,049,158 | 2,612,046 | 2,049,158
+Shareholders' equity | 299,510 | 296,185 | 288,438 | 280,979 | 273,113 | 299,510 | 273,113
+(1) Annualized for the periods presented.
+(2) A non-GAAP performance measure. We provide detailed reconciliations in the "Non-GAAP Performance and Financial Measures Reconciliation" table.
+(3) Ratios presented are for Avidbank Holdings, Inc. and are estimated for the three and nine months ended September 30, 2026.
+7
+AVIDBANK HOLDINGS, INC.
+Consolidated Statements of Financial Condition (Unaudited)
+September 30, | June 30, | March 31, | December 31, | September 30,
+(In thousands) | 2026 | 2026 | 2026 | 2025 | 2025
+Assets
+Cash and due from financial institutions | $ | 9,229 | $ | 13,897 | $ | 10,569 | $ | 7,942 | $ | 12,006
+Due from Federal Reserve Bank and interest-bearing deposits in other financial institutions | 344,830 | 146,012 | 138,473 | 146,627 | 165,313
+Total cash and cash equivalents | 354,059 | 159,909 | 149,042 | 154,569 | 177,319
+Debt securities available-for-sale | 279,712 | 232,196 | 210,583 | 218,160 | 173,588
+Loans, net of deferred fees | 2,282,528 | 2,224,119 | 2,172,846 | 2,148,439 | 1,958,585
+Allowance for credit losses on loans | (22,789 | ) | (21,501 | ) | (20,938 | ) | (22,261 | ) | (21,025 | )
+Loans, net of allowance for credit losses on loans | 2,259,739 | 2,202,618 | 2,151,908 | 2,126,178 | 1,937,560
+Cash surrender value of bank-owned life insurance policies | 11,540 | 11,443 | 13,151 | 13,045 | 12,953
+Premises and equipment, net | 984 | 1,151 | 1,340 | 1,526 | 1,739
+Accrued interest receivable and other assets | 60,798 | 53,123 | 53,530 | 56,165 | 59,295
+Total assets | $ | 2,966,832 | $ | 2,660,440 | $ | 2,579,554 | $ | 2,569,643 | $ | 2,362,454
+Liabilities and Shareholders' Equity
+Deposits:
+Non-interest-bearing | $ | 535,128 | $ | 568,509 | $ | 577,101 | $ | 556,972 | $ | 471,770
+Interest-bearing checking | 1,145,612 | 1,115,263 | 1,036,178 | 1,069,272 | 1,069,344
+Money market and savings | 883,797 | 538,399 | 519,059 | 532,149 | 465,198
+Time | 37,509 | 34,311 | 28,521 | 27,680 | 42,846
+Non-reciprocal brokered (1) | 10,000 | 65,466 | 38,460 | – | –
+Total deposits | 2,612,046 | 2,321,948 | 2,199,319 | 2,186,073 | 2,049,158
+Short-term borrowings | – | – | 55,000 | 60,000 | –
+Subordinated debentures, net | 29,130 | 22,000 | 22,000 | 22,000 | 22,000
+Accrued interest payable and other liabilities | 26,146 | 20,307 | 14,797 | 20,591 | 18,183
+Total liabilities | 2,667,322 | 2,364,255 | 2,291,116 | 2,288,664 | 2,089,341
+Shareholders' Equity
+Common stock | 170,843 | 170,284 | 169,474 | 169,990 | 169,342
+Retained earnings | 138,002 | 127,818 | 120,171 | 111,150 | 104,201
+Accumulated other comprehensive loss, net of taxes | (9,335 | ) | (1,917 | ) | (1,207 | ) | (161 | ) | (430 | )
+Total shareholders' equity | 299,510 | 296,185 | 288,438 | 280,979 | 273,113
+Total liabilities and shareholders' equity | $ | 2,966,832 | $ | 2,660,440 | $ | 2,579,554 | $ | 2,569,643 | $ | 2,362,454
+(1) FDIC regulations provide a limited exception from brokered deposit classification for certain reciprocal deposits, subject to a general cap determined using a tiered calculation based on the Bank's total liabilities. Due to changes from the 21st Century ROAD to Housing Act, as of September 30, 2026, none of the Bank's reciprocal deposits exceeded the applicable general cap to be classified as brokered deposits. As of June 30, 2026, March 31, 2026, December 31, 2025 and September 30, 2025, an additional $513.0 million, $447.6 million, $475.4 million and $522.5 million of our deposits, respectively, were considered brokered deposits by the FDIC due to being in excess of the general cap then in effect.
+8
+AVIDBANK HOLDINGS, INC.
+Consolidated Statements of Operations (Unaudited)
+For the Nine
+For the Three Months Ended | Months Ended
+Sept. 30, | June 30, | March 31, | Dec. 31, | Sept. 30, | Sept. 30, | Sept. 30,
+(in thousands, except share and per share amounts) | 2026 | 2026 | 2026 | 2025 | 2025 | 2026 | 2025
+Interest and fees on loans | $ | 37,426 | $ | 36,484 | $ | 35,429 | $ | 34,093 | $ | 33,880 | $ | 109,339 | $ | 98,732
+Interest on debt securities | 3,150 | 2,559 | 2,467 | 2,274 | 1,157 | 8,176 | 4,609
+Federal Home Loan Bank dividends | 200 | 20 | 426 | 185 | 184 | 646 | 550
+Other interest income | 2,796 | 864 | 716 | 1,775 | 2,033 | 4,376 | 3,532
+Total interest income | 43,572 | 39,927 | 39,038 | 38,327 | 37,254 | 122,537 | 107,423
+Interest on deposits | 14,411 | 12,640 | 11,899 | 12,887 | 13,776 | 38,950 | 40,272
+Interest on short-term borrowings | – | 196 | 240 | 6 | 385 | 437 | 3,538
+Interest on subordinated debentures | 487 | 410 | 399 | 421 | 443 | 1,296 | 1,321
+Total interest expense | 14,898 | 13,246 | 12,538 | 13,314 | 14,604 | 40,683 | 45,131
+Net interest income | 28,674 | 26,681 | 26,500 | 25,013 | 22,650 | 81,854 | 62,292
+Provision for credit losses | 1,151 | 2,789 | 1,445 | 2,838 | 1,355 | 5,385 | 2,280
+Net interest income after provision for credit losses | 27,523 | 23,892 | 25,055 | 22,175 | 21,295 | 76,469 | 60,012
+Service charges and fees | 887 | 851 | 821 | 797 | 779 | 2,559 | 2,381
+Foreign exchange income | 324 | 340 | 363 | 254 | 267 | 1,027 | 683
+Bank-owned life insurance income (1) | 97 | 1,497 | 106 | 93 | 96 | 1,700 | 279
+Credit card income | 106 | 113 | 101 | 60 | 57 | 320 | 254
+Warrant and success fee income | 112 | 64 | 3 | 375 | – | 179 | 273
+Other investment income | 55 | 79 | (22 | ) | 146 | 315 | 112 | 339
+Net loss on sale of debt securities | – | – | – | – | (62,391 | ) | – | (62,391 | )
+Other income | 115 | 106 | 95 | 42 | 25 | 316 | 39
+Total non-interest income | 1,696 | 3,050 | 1,467 | 1,767 | (60,852 | ) | 6,213 | (58,143 | )
+Salaries and employee benefits | 10,178 | 9,563 | 9,555 | 9,574 | 9,766 | 29,296 | 27,841
+Legal and professional fees | 1,316 | 897 | 1,188 | 890 | 591 | 3,401 | 1,817
+Data processing | 901 | 787 | 799 | 770 | 792 | 2,487 | 2,166
+Occupancy and equipment | 830 | 777 | 790 | 730 | 723 | 2,397 | 2,478
+Regulatory assessments | 486 | 515 | 566 | 521 | 445 | 1,567 | 1,409
+Other operating expenses | 1,414 | 3,934 | 1,184 | 1,366 | 1,162 | 6,531 | 3,219
+Total non-interest expense | 15,125 | 16,473 | 14,082 | 13,851 | 13,479 | 45,679 | 38,930
+Income / (loss) before income taxes | 14,094 | 10,469 | 12,440 | 10,091 | (53,036 | ) | 37,003 | (37,061 | )
+Provision / (benefit) for income taxes | 3,910 | 2,822 | 3,419 | 3,142 | (15,301 | ) | 10,151 | (10,559 | )
+Net income / (loss) | $ | 10,184 | $ | 7,647 | $ | 9,021 | $ | 6,949 | $ | (37,735 | ) | $ | 26,852 | $ | (26,502 | )
+Basic earnings / (loss) per common share | $ | 0.96 | $ | 0.72 | $ | 0.85 | $ | 0.66 | $ | (4.12 | ) | $ | 2.53 | $ | (3.28 | )
+Diluted earnings / (loss) per common share | 0.94 | 0.71 | 0.84 | 0.65 | (4.12 | ) | 2.49 | (3.28 | )
+Weighted average shares – basic | 10,626,969 | 10,607,949 | 10,600,902 | 10,579,753 | 9,168,707 | 10,612,036 | 8,069,830
+Weighted average shares – diluted | 10,803,901 | 10,776,924 | 10,773,884 | 10,754,488 | 9,168,707 | 10,785,050 | 8,069,830
+(1) Includes $1.3 million in income related to BOLI death benefits for the three months ended June 30, 2026 and the nine months ended September 30, 2026.
+9
+AVIDBANK HOLDINGS, INC.
+Average Balance Sheets and Net Interest Margin Analysis (Unaudited)
+For the Three Months Ended
+September 30, 2026 | June 30, 2026
+Interest | Yields | Interest | Yields
+Average | Income/ | or | Average | Income/ | or
+(In thousands) | Balance | Expense | Rates (6) | Balance | Expense | Rates (6)
+Assets
+Interest-earning assets:
+Loans, net of deferred fees (1) | $ | 2,228,603 | $ | 37,426 | 6.66 | % | $ | 2,195,164 | $ | 36,484 | 6.67 | %
+Interest-earning deposits | 296,047 | 2,796 | 3.75 | % | 91,304 | 864 | 3.80 | %
+Debt securities
+Taxable debt securities | 259,993 | 3,120 | 4.76 | % | 217,311 | 2,529 | 4.67 | %
+Non-taxable debt securities (2) | 2,592 | 38 | 5.82 | % | 2,631 | 38 | 5.79 | %
+Total debt securities | 262,585 | 3,158 | 4.77 | % | 219,942 | 2,567 | 4.68 | %
+FHLB stock (5) | 8,409 | 200 | 9.44 | % | 8,409 | 20 | 0.95 | %
+Total interest-earning assets | 2,795,644 | 43,580 | 6.18 | % | 2,514,819 | 39,935 | 6.37 | %
+Non-interest-earning assets:
+Cash and due from financial institutions | 12,543 | 16,004
+All other assets (3) | 37,804 | 34,715
+Total assets | $ | 2,845,991 | $ | 2,565,538
+Liabilities and Shareholders' Equity
+Interest-bearing liabilities:
+Interest-bearing demand deposits | $ | 1,136,531 | $ | 9,249 | 3.23 | % | $ | 1,055,578 | $ | 8,368 | 3.18 | %
+Money market and savings | 708,537 | 4,458 | 2.50 | % | 509,766 | 3,427 | 2.70 | %
+Time deposits | 37,044 | 300 | 3.21 | % | 35,454 | 285 | 3.22 | %
+Non-reciprocal brokered deposits | 40,246 | 404 | 3.98 | % | 56,810 | 560 | 3.95 | %
+Total interest-bearing deposits | 1,922,358 | 14,411 | 2.97 | % | 1,657,608 | 12,640 | 3.06 | %
+Short-term borrowings | – | – | 0.00 | % | 20,703 | 196 | 3.80 | %
+Subordinated debentures, net | 26,506 | 487 | 7.29 | % | 22,000 | 410 | 7.48 | %
+Total interest-bearing liabilities | 1,948,864 | 14,898 | 3.03 | % | 1,700,311 | 13,246 | 3.12 | %
+Non-interest-bearing liabilities:
+Demand deposits | 571,727 | 552,659
+Accrued expenses and other liabilities | 24,619 | 17,742
+Shareholders' equity | 300,781 | 294,826
+Total liabilities and shareholders' equity | $ | 2,845,991 | $ | 2,565,538
+Net interest spread | 3.15 | % | 3.25 | %
+Net interest income and margin (4) | $ | 28,682 | 4.07 | % | $ | 26,689 | 4.26 | %
+Non-taxable equivalent net interest margin | 4.07 | % | 4.26 | %
+Cost of deposits | $ | 2,494,085 | $ | 14,411 | 2.29 | % | $ | 2,210,267 | $ | 12,640 | 2.29 | %
+(1) Non-performing loans are included in average loan balances. No adjustment has been made for these loans in the calculation of yields. Interest income on loans includes net amortization of deferred fees / (costs) of $281 thousand and $260 thousand, for the three months ended September 30, 2026 and June 30, 2026, respectively.
+(2) Interest income on tax-exempt securities has been increased to reflect comparable interest on taxable securities. The rate used was 21%, reflecting the statutory federal income tax rate.
+(3) Including average allowance for credit losses on loans of $21.5 million and $20.5 million, respectively.
+(4) Net interest margin is net interest income divided by total interest-earning assets.
+(5) Includes a special FHLB dividend totaling $100 thousand for the three months ended September 30, 2026.
+(6) Annualized for the periods presented.
+10
+AVIDBANK HOLDINGS, INC.
+Average Balance Sheets and Net Interest Margin Analysis (Unaudited)
+For the Three Months Ended
+September 30, 2026 | September 30, 2025
+Interest | Yields | Interest | Yields
+Average | Income/ | or | Average | Income/ | or
+(In thousands) | Balance | Expense | Rates (6) | Balance | Expense | Rates (6)
+Assets
+Interest-earning assets:
+Loans, net of deferred fees (1) | $ | 2,228,603 | $ | 37,426 | 6.66 | % | $ | 1,924,537 | $ | 33,880 | 6.98 | %
+Interest-earning deposits | 296,047 | 2,796 | 3.75 | % | 189,921 | 2,033 | 4.25 | %
+Debt securities
+Taxable debt securities | 259,993 | 3,120 | 4.76 | % | 178,637 | 1,126 | 2.50 | %
+Non-taxable debt securities (2) | 2,592 | 38 | 5.82 | % | 2,517 | 39 | 6.15 | %
+Total debt securities | 262,585 | 3,158 | 4.77 | % | 181,154 | 1,165 | 2.55 | %
+FHLB stock (5) | 8,409 | 200 | 9.44 | % | 8,409 | 184 | 8.68 | %
+Total interest-earning assets | 2,795,644 | 43,580 | 6.18 | % | 2,304,021 | 37,262 | 6.42 | %
+Non-interest-earning assets:
+Cash and due from financial institutions | 12,543 | 7,019
+All other assets (3) | 37,804 | 46,118
+Total assets | $ | 2,845,991 | $ | 2,357,158
+Liabilities and Shareholders' Equity
+Interest-bearing liabilities:
+Interest-bearing demand deposits | $ | 1,136,531 | $ | 9,249 | 3.23 | % | $ | 1,074,064 | $ | 9,961 | 3.68 | %
+Money market and savings | 708,537 | 4,458 | 2.50 | % | 433,135 | 3,336 | 3.06 | %
+Time deposits | 37,044 | 300 | 3.21 | % | 43,897 | 365 | 3.30 | %
+Non-reciprocal brokered deposits | 40,246 | 404 | 3.98 | % | 10,283 | 114 | 4.40 | %
+Total interest-bearing deposits | 1,922,358 | 14,411 | 2.97 | % | 1,561,379 | 13,776 | 3.50 | %
+Short-term borrowings | – | – | 0.00 | % | 33,500 | 385 | 4.56 | %
+Subordinated debentures, net | 26,506 | 487 | 7.29 | % | 22,000 | 443 | 7.99 | %
+Total interest-bearing liabilities | 1,948,864 | 14,898 | 3.03 | % | 1,616,879 | 14,604 | 3.58 | %
+Non-interest-bearing liabilities:
+Demand deposits | 571,727 | 482,849
+Accrued expenses and other liabilities | 24,619 | 20,527
+Shareholders' equity | 300,781 | 236,903
+Total liabilities and shareholders' equity | $ | 2,845,991 | $ | 2,357,158
+Net interest spread | 3.15 | % | 2.83 | %
+Net interest income and margin (4) | $ | 28,682 | 4.07 | % | $ | 22,658 | 3.90 | %
+Non-taxable equivalent net interest margin | 4.07 | % | 3.90 | %
+Cost of deposits | $ | 2,494,085 | $ | 14,411 | 2.29 | % | $ | 2,044,228 | $ | 13,776 | 2.67 | %
+(1) Non-performing loans are included in average loan balances. No adjustment has been made for these loans in the calculation of yields. Interest income on loans includes net amortization of deferred fees / (costs) of $281 thousand and $444 thousand, for the three months ended September 30, 2026 and September 30, 2025, respectively.
+(2) Interest income on tax-exempt securities has been increased to reflect comparable interest on taxable securities. The rate used was 21%, reflecting the statutory federal income tax rate.
+(3) Including average allowance for credit losses on loans of $21.5 million and $20.1 million, respectively.
+(4) Net interest margin is net interest income divided by total interest-earning assets. (5) Includes a special FHLB dividend totaling $100 thousand for the three months ended September 30, 2026. (6) Annualized for the periods presented.
+11
+AVIDBANK HOLDINGS, INC.
+Average Balance Sheets and Net Interest Margin Analysis (Unaudited)
+For the Nine Months Ended
+September 30, 2026 | September 30, 2025
+Interest | Yields | Interest | Yields
+Average | Income/ | or | Average | Income/ | or
+(In thousands) | Balance | Expense | Rates (6) | Balance | Expense | Rates (6)
+Assets
+Interest-earning assets:
+Loans, net of deferred fees (1) | $ | 2,191,770 | $ | 109,339 | 6.67 | % | $ | 1,890,413 | $ | 98,732 | 6.98 | %
+Interest-earning deposits | 156,199 | 4,376 | 3.75 | % | 109,743 | 3,532 | 4.30 | %
+Debt securities
+Taxable debt securities | 230,544 | 8,084 | 4.69 | % | 254,061 | 4,517 | 2.38 | %
+Non-taxable debt securities (2) | 2,636 | 116 | 5.88 | % | 2,589 | 116 | 5.99 | %
+Total debt securities | 233,180 | 8,200 | 4.70 | % | 256,650 | 4,633 | 2.41 | %
+FHLB stock (5) | 8,409 | 646 | 10.27 | % | 8,409 | 550 | 8.74 | %
+Total interest-earning assets | 2,589,558 | 122,561 | 6.33 | % | 2,265,215 | 107,447 | 6.34 | %
+Non-interest-earning assets:
+Cash and due from financial institutions | 13,866 | 9,975
+All other assets (3) | 36,541 | 48,175
+Total assets | $ | 2,639,965 | $ | 2,323,365
+Liabilities and Shareholders' Equity
+Interest-bearing liabilities:
+Interest-bearing demand deposits | $ | 1,086,798 | $ | 25,878 | 3.18 | % | $ | 1,023,572 | $ | 27,974 | 3.65 | %
+Money market and savings | 579,249 | 11,274 | 2.60 | % | 405,844 | 9,301 | 3.06 | %
+Time deposits | 33,397 | 791 | 3.17 | % | 50,466 | 1,323 | 3.51 | %
+Non-reciprocal brokered deposits | 34,005 | 1,007 | 3.96 | % | 49,978 | 1,674 | 4.48 | %
+Total interest-bearing deposits | 1,733,449 | 38,950 | 3.00 | % | 1,529,860 | 40,272 | 3.52 | %
+Short-term borrowings | 15,308 | 437 | 3.82 | % | 103,495 | 3,538 | 4.57 | %
+Subordinated debentures, net | 23,517 | 1,296 | 7.37 | % | 22,000 | 1,321 | 8.03 | %
+Total interest-bearing liabilities | 1,772,274 | 40,683 | 3.07 | % | 1,655,355 | 45,131 | 3.65 | %
+Non-interest-bearing liabilities:
+Demand deposits | 552,945 | 438,199
+Accrued expenses and other liabilities | 20,430 | 19,846
+Shareholders' equity | 294,316 | 209,965
+Total liabilities and shareholders' equity | $ | 2,639,965 | $ | 2,323,365
+Net interest spread | 3.26 | % | 2.70 | %
+Net interest income and margin (4) | $ | 81,878 | 4.23 | % | $ | 62,316 | 3.68 | %
+Non-taxable equivalent net interest margin | 4.23 | % | 3.68 | %
+Cost of deposits | $ | 2,286,394 | $ | 38,950 | 2.28 | % | $ | 1,968,059 | $ | 40,272 | 2.74 | %
+(1) Non-performing loans are included in average loan balances. No adjustment has been made for these loans in the calculation of yields. Interest income on loans includes net amortization of deferred fees / (costs) of $793 thousand and $1.4 million, for the nine months ended September 30, 2026 and September 30, 2025, respectively.
+(2) Interest income on tax-exempt securities has been increased to reflect comparable interest on taxable securities. The rate used was 21%, reflecting the statutory federal income tax rate.
+(3) Including average allowance for credit losses on loans of $21.3 million and $19.3 million, respectively.
+(4) Net interest margin is net interest income divided by total interest-earning assets.
+(5) Includes special FHLB dividends totaling $341 thousand for the nine months ended September 30, 2026.
+(6) Annualized for the periods presented.
+12
+AVIDBANK HOLDINGS, INC.
+Asset Quality Data (Unaudited)
+Sept. 30, | June 30, | March 31, | Dec. 31, | Sept. 30, | As of/For the Year-to-Date Period Ended September 30,
+(In thousands) | 2026 | 2026 | 2026 | 2025 | 2025 | 2026 | 2025
+Allowance for Credit Losses on Loans
+Balance, beginning of period | $ | 21,501 | $ | 20,938 | $ | 22,261 | $ | 21,025 | $ | 19,624 | $ | 22,261 | $ | 18,679
+Provision for credit losses on loans | 1,299 | 2,461 | 1,433 | 2,759 | 1,364 | 5,193 | 2,255
+Charge-offs | (11 | ) | (1,901 | ) | (3,171 | ) | (1,523 | ) | – | (5,083 | ) | –
+Recoveries | – | 3 | 415 | – | 37 | 418 | 91
+Balance, end of period | $ | 22,789 | $ | 21,501 | $ | 20,938 | $ | 22,261 | $ | 21,025 | $ | 22,789 | $ | 21,025
+Allowance for Credit Losses on Unfunded Commitments
+Balance, beginning of period | $ | 2,691 | $ | 2,363 | $ | 2,351 | $ | 2,272 | $ | 2,281 | $ | 2,351 | $ | 2,247
+Provision for unfunded commitments | (148 | ) | 328 | 12 | 79 | (9 | ) | 192 | 25
+Balance, end of period | $ | 2,543 | $ | 2,691 | $ | 2,363 | $ | 2,351 | $ | 2,272 | $ | 2,543 | $ | 2,272
+Total allowance for credit losses - loans and unfunded commitments | $ | 25,332 | $ | 24,192 | $ | 23,301 | $ | 24,612 | $ | 23,297 | $ | 25,332 | $ | 23,297
+Provision for credit losses
+Provision for credit losses on loans | $ | 1,299 | $ | 2,461 | $ | 1,433 | $ | 2,759 | $ | 1,364 | $ | 5,193 | $ | 2,255
+Provision for unfunded commitments | (148 | ) | 328 | 12 | 79 | (9 | ) | 192 | 25
+Total provision for credit losses | $ | 1,151 | $ | 2,789 | $ | 1,445 | $ | 2,838 | $ | 1,355 | $ | 5,385 | $ | 2,280
+Non-Performing Assets
+Loans accounted for on a non-accrual basis | $ | 15,937 | $ | 14,448 | $ | 16,323 | $ | 24,502 | $ | 2,761 | $ | 15,937 | $ | 2,761
+Loans past due 90 days or more and still accruing | – | – | – | – | – | – | –
+Non-performing loans | 15,937 | 14,448 | 16,323 | 24,502 | 2,761 | 15,937 | 2,761
+Other real estate owned | – | – | – | – | – | – | –
+Non-performing assets | $ | 15,937 | $ | 14,448 | $ | 16,323 | $ | 24,502 | $ | 2,761 | $ | 15,937 | $ | 2,761
+Non-Performing Loans by Type
+Commercial and industrial | $ | – | $ | – | $ | – | $ | 5,088 | $ | 2,761 | $ | – | $ | 2,761
+Construction and land | 15,937 | 14,448 | 16,323 | 19,414 | – | 15,937 | –
+Total non-performing loans | $ | 15,937 | $ | 14,448 | $ | 16,323 | $ | 24,502 | $ | 2,761 | $ | 15,937 | $ | 2,761
+Asset Quality Ratios
+Allowance for credit losses on loans to total loans | 1.00 | % | 0.97 | % | 0.96 | % | 1.04 | % | 1.07 | % | 1.00 | % | 1.07 | %
+Total allowance for credit losses-loans and unfunded commitments to total loans | 1.11 | % | 1.09 | % | 1.07 | % | 1.15 | % | 1.19 | % | 1.11 | % | 1.19 | %
+Allowance for credit losses on loans to non-performing loans | 142.99 | % | 148.82 | % | 128.27 | % | 90.85 | % | 761.50 | % | 142.99 | % | 761.50 | %
+Non-performing assets to total assets | 0.54 | % | 0.54 | % | 0.63 | % | 0.95 | % | 0.12 | % | 0.54 | % | 0.12 | %
+Non-performing loans to total loans | 0.70 | % | 0.65 | % | 0.75 | % | 1.14 | % | 0.14 | % | 0.70 | % | 0.14 | %
+Net charge-offs to average loans (1) | 0.00 | % | 0.35 | % | 0.52 | % | 0.30 | % | (0.01 | )% | 0.28 | % | (0.01 | )%
+Criticized loans to total loans | 1.68 | % | 2.16 | % | 1.57 | % | 0.50 | % | 1.48 | % | 1.68 | % | 1.48 | %
+Classified loans to total loans | 1.31 | % | 0.96 | % | 0.92 | % | 1.22 | % | 0.44 | % | 1.31 | % | 0.44 | %
+(1) Annualized for the periods presented.
+13
+AVIDBANK HOLDINGS, INC.
+Loans and Deposits (Unaudited)
+Current | Year
+Sept. 30, | June 30, | March 31, | Dec. 31, | Sept. 30, | Quarter | Over Year
+(In thousands) | 2026 | 2026 | 2026 | 2025 | 2025 | Change | Change
+Loans
+Commercial and industrial loans | $ | 1,132,350 | $ | 1,111,610 | $ | 1,040,684 | $ | 1,049,530 | $ | 871,524 | $ | 20,740 | $ | 260,826
+Commercial real estate
+Multi-family | 298,632 | 280,787 | 268,057 | 265,105 | 249,802 | 17,845 | 48,830
+Owner-Occupied | 210,980 | 197,371 | 164,191 | 165,130 | 176,171 | 13,609 | 34,809
+Non-Owner-Occupied | 440,584 | 431,774 | 450,503 | 424,107 | 412,623 | 8,810 | 27,961
+Construction and land | 161,623 | 164,200 | 200,272 | 196,243 | 209,750 | (2,577 | ) | (48,127 | )
+Residential | 37,933 | 38,007 | 48,726 | 45,669 | 36,399 | (74 | ) | 1,534
+Total real estate loans | 1,149,752 | 1,112,139 | 1,131,749 | 1,096,254 | 1,084,745 | 37,613 | 65,007
+Consumer loans | 426 | 370 | 413 | 2,655 | 2,316 | 56 | (1,890 | )
+Total loans, net of deferred fees | $ | 2,282,528 | $ | 2,224,119 | $ | 2,172,846 | $ | 2,148,439 | $ | 1,958,585 | $ | 58,409 | $ | 323,943
+Total unfunded commitments | 818,529 | 788,097 | 711,592 | 707,283 | 711,048 | 30,432 | 107,481
+Deposits
+Non-interest-bearing demand | $ | 535,128 | $ | 568,509 | $ | 577,101 | $ | 556,972 | $ | 471,770 | $ | (33,381 | ) | $ | 63,358
+Interest-bearing checking | 1,145,612 | 1,115,263 | 1,036,178 | 1,069,272 | 1,069,344 | 30,349 | 76,268
+Money market and savings | 883,797 | 538,399 | 519,059 | 532,149 | 465,198 | 345,398 | 418,599
+Time | 37,509 | 34,311 | 28,521 | 27,680 | 42,846 | 3,198 | (5,337 | )
+Non-reciprocal brokered (1) | 10,000 | 65,466 | 38,460 | – | – | (55,466 | ) | 10,000
+Total deposits | $ | 2,612,046 | $ | 2,321,948 | $ | 2,199,319 | $ | 2,186,073 | $ | 2,049,158 | $ | 290,098 | $ | 562,888
+Average Deposits
+Non-interest-bearing demand | $ | 571,727 | $ | 552,659 | $ | 534,033 | $ | 526,610 | $ | 482,849 | $ | 19,068 | $ | 88,878
+Interest-bearing checking | 1,136,531 | 1,055,578 | 1,067,528 | 1,088,413 | 1,074,064 | 80,953 | 62,467
+Money market and savings | 708,537 | 509,766 | 517,342 | 489,587 | 433,135 | 198,771 | 275,402
+Time | 37,044 | 35,454 | 27,589 | 31,266 | 43,897 | 1,590 | (6,853 | )
+Non-reciprocal brokered | 40,246 | 56,810 | 4,567 | – | 10,283 | (16,564 | ) | 29,963
+Total deposits | $ | 2,494,085 | $ | 2,210,267 | $ | 2,151,059 | $ | 2,135,876 | $ | 2,044,228 | $ | 283,818 | $ | 449,857
+(1) FDIC regulations provide a limited exception from brokered deposit classification for certain reciprocal deposits, subject to a general cap determined using a tiered calculation based on the Bank's total liabilities. Due to changes from the 21st Century ROAD to Housing Act, as of September 30, 2026, none of the Bank's reciprocal deposits exceeded the applicable general cap to be classified as brokered deposits. As of June 30, 2026, March 31, 2026, December 31, 2025 and September 30, 2025, an additional $513.0 million, $447.6 million, $475.4 million and $522.5 million of our deposits, respectively, were considered brokered deposits by the FDIC due to being in excess of the general cap then in effect.
+14
+AVIDBANK HOLDINGS, INC.
+Non-GAAP Performance and Financial Measures Reconciliation (Unaudited)
+Management believes that adjusted net income, adjusted diluted earnings per share, adjusted return on average assets, adjusted return on average equity, adjusted non-interest expense, adjusted efficiency ratio, taxable equivalent net interest income and taxable equivalent net interest margin are reasonable measures to understand the Company’s core operating performance and are important to many investors who are interested in understanding our profitability prospects from our core operations. In addition, management reviews yields on certain asset categories and the net interest margin of the Company on a fully taxable equivalent basis. The non-GAAP taxable equivalent net interest income adjustment facilitates performance comparisons between taxable and tax-free assets by increasing the tax-free income by an amount equivalent to the Federal income taxes that would have been paid if this income were taxable at the Company's 21% Federal statutory rate.
+For the Three Months Ended | For the Nine Months Ended
+Sept. 30, | June 30, | March 31, | Dec. 31, | Sept. 30, | Sept. 30, | Sept. 30,
+(In thousands) | 2026 | 2026 | 2026 | 2025 | 2025 | 2026 | 2025
+Non-GAAP adjusted net income reconciliation
+Net income / (loss) – GAAP | $ | 10,184 | $ | 7,647 | $ | 9,021 | $ | 6,949 | $ | (37,735 | ) | $ | 26,852 | $ | (26,502 | )
+Settlement of litigation | – | 2,637 | – | – | – | 2,637 | –
+BOLI death benefit income | – | (1,338 | ) | – | – | – | (1,338 | ) | –
+Loss on sale of securities | – | – | – | – | 62,391 | – | 62,391
+Tax effect of adjustments | – | (749 | ) | – | – | (17,949 | ) | (749 | ) | (17,949 | )
+Net income – adjusted (non-GAAP) | $ | 10,184 | $ | 8,197 | $ | 9,021 | $ | 6,949 | $ | 6,707 | $ | 27,402 | $ | 17,940
+Non-GAAP adjusted diluted earnings per share reconciliation
+Diluted earnings / (loss) per share – GAAP | $ | 0.94 | $ | 0.71 | $ | 0.84 | $ | 0.65 | $ | (4.12 | ) | $ | 2.49 | $ | (3.28 | )
+Settlement of litigation, net of income tax | – | 0.17 | – | – | – | 0.17 | –
+BOLI death benefit income | – | (0.12 | ) | – | – | – | (0.12 | ) | –
+Loss on sale of securities, net of income tax | – | – | – | – | 4.84 | – | 5.46
+Diluted earnings per share – adjusted (non-GAAP) | $ | 0.94 | $ | 0.76 | $ | 0.84 | $ | 0.65 | $ | 0.72 | $ | 2.54 | $ | 2.18
+Weighted average shares outstanding – diluted – adjusted | 10,803,901 | 10,776,924 | 10,773,884 | 10,754,488 | 9,353,444 | 10,785,050 | 8,247,765
+Non-GAAP adjusted return on average assets reconciliation
+Net income / (loss) – GAAP | $ | 10,184 | $ | 7,647 | $ | 9,021 | $ | 6,949 | $ | (37,735 | ) | $ | 26,852 | $ | (26,502 | )
+Average total assets | 2,845,991 | 2,565,538 | 2,504,616 | 2,459,110 | 2,357,158 | 2,639,965 | 2,323,365
+Return on average assets – GAAP (1) | 1.42 | % | 1.20 | % | 1.46 | % | 1.12 | % | (6.35 | )% | 1.36 | % | (1.53 | )%
+Net income – adjusted (non-GAAP) | $ | 10,184 | $ | 8,197 | $ | 9,021 | $ | 6,949 | $ | 6,707 | $ | 27,402 | $ | 17,940
+Average total assets | 2,845,991 | 2,565,538 | 2,504,616 | 2,459,110 | 2,357,158 | 2,639,965 | 2,323,365
+Return on average assets – adjusted (non-GAAP) (1) | 1.42 | % | 1.28 | % | 1.46 | % | 1.12 | % | 1.13 | % | 1.39 | % | 1.03 | %
+Non-GAAP adjusted return on average equity reconciliation
+Net income / (loss) – GAAP | $ | 10,184 | $ | 7,647 | $ | 9,021 | $ | 6,949 | $ | (37,735 | ) | $ | 26,852 | $ | (26,502 | )
+Average total equity | 300,781 | 294,826 | 287,191 | 278,382 | 236,903 | 294,316 | 209,965
+Return on average equity – GAAP (1) | 13.43 | % | 10.40 | % | 12.74 | % | 9.90 | % | (63.19 | )% | 12.20 | % | (16.88 | )%
+Net income – adjusted (non-GAAP) | $ | 10,184 | $ | 8,197 | $ | 9,021 | $ | 6,949 | $ | 6,707 | $ | 27,402 | $ | 17,940
+Average total equity | 300,781 | 294,826 | 287,191 | 278,382 | 236,903 | 294,316 | 209,965
+Return on average equity – adjusted (non-GAAP) (1) | 13.43 | % | 11.15 | % | 12.74 | % | 9.90 | % | 11.23 | % | 12.45 | % | 11.42 | %
+Non-GAAP adjusted non-interest expense reconciliation
+Non-interest expense | $ | 15,125 | $ | 16,473 | $ | 14,082 | $ | 13,851 | $ | 13,479 | $ | 45,679 | $ | 38,930
+Settlement of litigation | – | (2,637 | ) | – | – | – | (2,637 | ) | –
+Non-interest expense – adjusted | $ | 15,125 | $ | 13,836 | $ | 14,082 | $ | 13,851 | $ | 13,479 | $ | 43,042 | $ | 38,930
+Non-GAAP adjusted efficiency ratio reconciliation
+Non-interest expense | $ | 15,125 | $ | 16,473 | $ | 14,082 | $ | 13,851 | $ | 13,479 | $ | 45,679 | $ | 38,930
+Net interest income | 28,674 | 26,681 | 26,500 | 25,013 | 22,650 | 81,854 | 62,292
+Non-interest income | 1,696 | 3,050 | 1,467 | 1,767 | (60,852 | ) | 6,213 | (58,143 | )
+Efficiency ratio – GAAP | 49.80 | % | 55.41 | % | 50.35 | % | 51.72 | % | (35.28 | )% | 51.87 | % | 938.30 | %
+Non-interest expense – adjusted | $ | 15,125 | $ | 13,836 | $ | 14,082 | $ | 13,851 | $ | 13,479 | $ | 43,042 | $ | 38,930
+Net interest income | 28,674 | 26,681 | 26,500 | 25,013 | 22,650 | 81,854 | 62,292
+Non-interest income | 1,696 | 3,050 | 1,467 | 1,767 | (60,852 | ) | 6,213 | (58,143 | )
+BOLI death benefit income | – | (1,338 | ) | – | – | – | (1,338 | ) | –
+Loss on sale of securities | – | – | – | – | 62,391 | – | 62,391
+Non-interest income – adjusted | 1,696 | 1,712 | 1,467 | 1,767 | 1,539 | 4,875 | 4,248
+Efficiency ratio – adjusted (non-GAAP) | 49.80 | % | 48.73 | % | 50.35 | % | 51.72 | % | 55.72 | % | 49.63 | % | 58.51 | %
+Non-GAAP taxable equivalent net interest income reconciliation
+Net interest income – GAAP | $ | 28,674 | $ | 26,681 | $ | 26,500 | $ | 25,013 | $ | 22,650 | $ | 81,854 | $ | 62,292
+Taxable equivalent adjustment | 8 | 8 | 8 | 8 | 8 | 24 | 24
+Net interest income – taxable equivalent (non-GAAP) | $ | 28,682 | $ | 26,689 | $ | 26,508 | $ | 25,021 | $ | 22,658 | $ | 81,878 | $ | 62,316
+Non-GAAP taxable equivalent net interest margin reconciliation
+Net interest margin - GAAP (1) | 4.07 | % | 4.26 | % | 4.38 | % | 4.13 | % | 3.90 | % | 4.23 | % | 3.68 | %
+Impact of taxable equivalent adjustment | – | – | – | – | – | – | –
+Net interest margin - taxable equivalent (non-GAAP) (1) | 4.07 | % | 4.26 | % | 4.38 | % | 4.13 | % | 3.90 | % | 4.23 | % | 3.68 | %
+(1) | Annualized for the periods presented.
+15

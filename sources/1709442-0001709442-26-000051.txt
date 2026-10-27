@@ -1,0 +1,509 @@
+Company: FIRSTSUN CAPITAL BANCORP (CIK 1709442)
+Accession: 0001709442-26-000051
+Results released: 2026-10-26
+Press release: https://www.sec.gov/Archives/edgar/data/1709442/000170944226000051/exhibit991-earningspressre.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1709442/000170944226000051/0001709442-26-000051-index.htm
+Saved: 2026-10-27T16:12:22+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 exhibit991-earningspressre.htm EX-99.1
+FirstSun Capital Bancorp Reports Third Quarter 2026 Results
+Third Quarter 2026 Highlights:
+•Net interest margin of 3.82%
+•21.9% noninterest income to total revenue1
+•Net income of $38.4 million, $0.82 per diluted share (adjusted, $48.2 million, $1.03 per diluted share, see “Non-GAAP Financial Measures and Reconciliations” below)
+•Return on average total assets of 0.98% (adjusted, 1.23%, see “Non-GAAP Financial Measures and Reconciliations” below)
+•Return on average stockholders’ equity of 8.23% (adjusted, 10.33%, see “Non-GAAP Financial Measures and Reconciliations” below)
+•Repurchased 1,245,224 common shares for $49.7 million under our share repurchase program
+Denver, Colorado – October 26, 2026 – FirstSun Capital Bancorp (“FirstSun”) (NASDAQ: FSUN) reported net income of $38.4 million in the third quarter of 2026 compared to net income of $23.2 million in the third quarter of 2025. Earnings per diluted share were $0.82 in both the third quarter of 2026 and 2025. Adjusted net income, a non-GAAP financial measure, was $48.2 million or $1.03 per diluted share in the third quarter of 2026 compared to $23.4 million or $0.83 per diluted share in the third quarter of 2025. See “Non-GAAP Financial Measures and Reconciliations” below.
+Neal Arnold, FirstSun’s Chief Executive Officer and President, commented, “Third quarter results reflect our continued progress on our strategic priorities highlighted by an improved net interest margin as a result of continued balance sheet improvements, a strong diversified revenue profile and improved earnings performance, including benefits from operating synergies realized following the acquisition of First Foundation in the second quarter. We believe our relationship-based business model, our presence in some of the stronger economic growth markets in the country and our disciplined focus on a balanced risk profile position us for continued success.
+“Additionally, in late September, we successfully completed the core system conversion of First Foundation, representing another important milestone in our overall integration plan. I'm extremely proud of our teammates for all the hard work, planning and collaboration in completing the conversion while continuing to serve our great clients throughout the process. We remain focused on continuing to grow our franchise and delivering strong financial results and sustainable long-term value for our stockholders.”
+Third Quarter 2026 Results
+Net income totaled $38.4 million, or $0.82 per diluted share, in the third quarter of 2026, compared to a net loss of $22.9 million, or $0.49 per diluted share, in the prior quarter. Adjusted net income, a non-GAAP financial measure, totaled $48.2 million, or $1.03 per diluted share, in the third quarter of 2026, compared to $21.0 million, or $0.45 per diluted share, in the prior quarter.
+Return on average total assets was 0.98% in the third quarter of 2026, compared to (0.54)% in the prior quarter, and return on average stockholders’ equity was 8.23% in the third quarter of 2026, compared to (4.92)% in the prior quarter. Adjusted return on average total assets and adjusted return on average stockholders’ equity, each a non-GAAP financial measure, were 1.23% and 10.33% respectively in the third quarter of 2026 compared to 0.50% and 4.52%, respectively, in the prior quarter.
+1 Total revenue is net interest income plus noninterest income.
+Net Interest Income and Net Interest Margin
+Net interest income totaled $140.3 million in the third quarter of 2026, a decrease of $2.9 million compared to the prior quarter. Our net interest margin increased 24 basis points to 3.82% compared to the prior quarter. Average loans, including loans held-for-sale, decreased by $1.0 billion in the third quarter of 2026, compared to the prior quarter, primarily due to the sale of $1.3 billion in loans late in the second quarter of 2026, a component of our merger-related balance sheet repositioning strategy. Loan yield increased by 17 basis points to 6.33% in the third quarter of 2026, compared to the prior quarter, primarily due to the loan sales in the second quarter of 2026, comprised of lower-yielding multifamily and public finance loans acquired from First Foundation, and the rising interest rate environment and its impact on variable rate loans in the loan portfolio. Average investment securities decreased by $0.2 billion in the third quarter of 2026, compared to the prior quarter, primarily due to the sale of $1.4 billion in securities in the second quarter of 2026, a component of our merger-related balance sheet repositioning strategy. Investment securities yield decreased by 28 basis points to 4.52% in the third quarter of 2026, compared to the prior quarter, primarily reflecting lower purchase accounting discount accretion. Average interest-bearing cash and other assets decreased by $229.2 million in the third quarter of 2026, compared to the prior quarter. Interest-bearing cash and other assets yield increased by 29 basis points to 3.49% in the third quarter of 2026, compared to the prior quarter, primarily reflecting an increase in yield on cash on deposit at the Federal Reserve and an increase in dividends received from the Federal Home Loan Bank.
+Average interest-bearing deposits decreased $1.3 billion in the third quarter of 2026, compared to the prior quarter, primarily due to the reduction of $2.5 billion in deposits in the second quarter of 2026, a component of our merger-related balance sheet repositioning strategy. Total cost of interest-bearing deposits decreased by two basis points to 2.75% in the third quarter of 2026, compared to the prior quarter, due primarily to the disposition of higher-cost certificates of deposit acquired from First Foundation.
+Asset Quality and Provision for Credit Losses
+The provision for credit losses totaled $4.4 million in the third quarter of 2026, primarily reflecting specific reserves established for two CRE loans, partially offset by a decrease in the loan portfolio, compared to a provision for credit losses of $40.4 million in the second quarter of 2026. The provision for credit losses in the second quarter of 2026 primarily reflected the downgrades and write-downs of two C&I lending relationships.
+Net charge-offs totaled $3.3 million, or 0.11% of average loans on an annualized basis, in the third quarter of 2026, primarily related to one C&I lending relationship and one multifamily relationship, both acquired from First Foundation, compared to net charge-offs of $42.4 million or 1.45% of average loans on an annualized basis, in the second quarter of 2026.
+The allowance for credit losses as a percentage of loans outstanding was 1.52% at September 30, 2026, an increase of two basis points from the prior quarter. The ratio of nonperforming assets to total assets was 1.46% at September 30, 2026, compared to 1.32% at June 30, 2026.
+Noninterest Income
+Noninterest income totaled $39.4 million in the third quarter of 2026, a decrease of $1.6 million from the prior quarter. Income from mortgage banking services decreased $3.2 million in the third quarter of 2026 from the prior quarter, primarily due to a decrease in loan originations sold, as well as a decrease in income resulting from changes in MSR fair value, net of hedging. Other noninterest income increased $1.0 million in the third quarter of 2026 compared to the prior quarter, primarily driven by higher swap and loan syndication revenue. The increase in other noninterest income from swap and loan syndication revenue in the third quarter of 2026, was partially offset by the combined impact of a decline in the fair value of investments associated with our deferred compensation plan and lower OREO property losses.
+Noninterest income as a percentage of total revenue2 was 21.9% for the third quarter of 2026, a decrease of 0.3% from the prior quarter.
+2 Total revenue is net interest income plus noninterest income.
+2
+Noninterest Expense
+Noninterest expense totaled $126.6 million in the third quarter of 2026, a decrease of $45.2 million from the prior quarter. Merger related expenses decreased $44.3 million in the third quarter of 2026 from the prior quarter. Salary and employee benefits decreased $5.4 million in the third quarter of 2026 from the prior quarter, primarily due to merger-related workforce reductions and a lower expense impact resulting from a decline in the fair value of investments associated with our deferred compensation plan. Other noninterest expense increased $4.5 million in the third quarter of 2026 compared to the prior quarter, primarily driven by higher loan collection expenses.
+The efficiency ratio in the third quarter of 2026 was 70.43% compared to 93.25% in the prior quarter. The adjusted efficiency ratio, a non-GAAP financial measure, was 63.06% in the third quarter of 2026 compared to 61.99% in the prior quarter.
+Tax Rate
+The effective tax rate was 21.2% in the third quarter of 2026, compared to 18.3% in the prior quarter.
+Loans
+Loans decreased to $11.5 billion at September 30, 2026, from $11.6 billion at June 30, 2026, reflecting an annualized decline of 3.8%. The decrease was primarily attributable to paydowns in commercial real estate loans, notably multifamily, non-owner occupied, and owner-occupied properties, as well as lower public finance loan balances, partially offset by increased C&I loans.
+Deposits
+Deposits were $13.0 billion at September 30, 2026, compared to $13.4 billion at June 30, 2026, a decrease of $0.4 billion in the third quarter of 2026, or 13.2% on an annualized basis, primarily due to a decrease in money market and savings deposits and certificates of deposit, partially offset by an increase in demand and NOW deposits.
+Average deposits were $13.2 billion for the third quarter of 2026, compared to $14.5 billion for the prior quarter, a decrease of $1.3 billion or 35.0% on an annualized basis, primarily due to a decrease in certificates of deposit, a component of our merger-related balance sheet repositioning strategy.
+Noninterest-bearing deposit accounts represented 20.6% of total deposits at September 30, 2026 and our loan to deposit ratio was 88.3% at September 30, 2026.
+The ratio of total uninsured deposits to total deposits was estimated to be 33.2% at September 30, 2026. The ratio of total uninsured and uncollateralized deposits to total deposits was estimated to be 25.8% at September 30, 20263.
+Capital
+As of September 30, 2026, FirstSun’s common equity tier 1 risk-based capital ratio was 11.99%, total risk-based capital ratio was 14.29% and tier 1 leverage ratio was 10.33%. Our capital ratios remain strong and exceeded the levels required to be considered well capitalized. Book value per share was $39.75 at September 30, 2026, an increase of $0.46 from June 30, 2026. Tangible book value per share, a non-GAAP financial measure, was $35.60 at September 30, 2026, an increase of $0.44 from June 30, 2026. See “Non-GAAP Financial Measures and Reconciliations” below.
+3 Uninsured deposits and uninsured and uncollateralized deposits are reported for our wholly-owned subsidiary Sunflower Bank, N.A.
+3
+Non-GAAP Financial Measures
+This press release (including the tables beginning on page 16) contains financial measures determined by methods other than in accordance with accounting principles generally accepted in the United States (“GAAP”). Our management uses these non-GAAP financial measures in their analysis of our performance and the efficiency of our operations. Management believes these non-GAAP measures provide a greater understanding of ongoing operations, enhance comparability of results with prior periods and demonstrate the effects of significant items in the current period. We believe a meaningful analysis of our financial performance requires an understanding of the factors underlying that performance. Our management believes investors may find these non-GAAP financial measures useful. These non-GAAP financial measures, however, should not be viewed as a substitute for financial measures determined in accordance with GAAP, nor are they necessarily comparable to non-GAAP performance measures that may be presented by other companies. Below is a listing of the non-GAAP measures used in this press release:
+•Tangible stockholders’ equity to tangible assets;
+•Tangible stockholders’ equity to tangible assets, reflecting net unrealized losses on HTM securities, net of tax;
+•Tangible book value per share;
+•Adjusted net income;
+•Adjusted diluted earnings per share;
+•Adjusted return on average total assets;
+•Adjusted return on average stockholders’ equity;
+•Return on average tangible stockholders’ equity;
+•Tangible net income;
+•Adjusted return on average tangible stockholders’ equity;
+•Adjusted total noninterest expense;
+•Adjusted efficiency ratio; and
+•Fully tax equivalent (“FTE”) net interest income and net interest margin4.
+The tables beginning on page 16 provide a reconciliation of the non-GAAP financial measures contained in this press release to the most comparable GAAP equivalent.
+About FirstSun
+FirstSun Capital Bancorp (“FirstSun”) (NASDAQ: FSUN), headquartered in Denver, Colorado, is the financial holding company for wholly owned subsidiaries including Sunflower Bank, N.A. and First Foundation Advisors. Through its subsidiaries and affiliated entities, FirstSun provides a full range of relationship-focused services to meet personal, business, and wealth management financial objectives, with depository branches in ten states and mortgage capabilities in 44 states. FirstSun had total consolidated assets of $15.3 billion as of September 30, 2026.
+To learn more, visit ir.firstsuncb.com or SunflowerBank.com.
+Investor Earnings Conference Call
+FirstSun will host a conference call on Tuesday, October 27, 2026 at 11:00 a.m. (ET) to discuss its third quarter 2026 financial results.
+Participants may join by phone by dialing (833) 461-5787 for toll-free within the U.S. and (585) 542-9983 for all other locations. The conference Meeting ID is 141121855. The numbers for international participants are available here: https://help.events.q4inc.com/eahc/international-dial-in-numbers.
+An audio replay of the live call, and the accompanying presentation slides, will be available following the live event on the “Events & Presentations” page of FirstSun’s website at https://ir.firstsuncb.com/overview/default.aspx.
+4 FTE net interest income and net interest margin are calculated using a federal tax rate of 21%.
+4
+Deposits Classification
+Previously, deposit amounts related to certain NOW accounts with limited monthly transaction activity were able to be reclassified to money market accounts to reduce reserve requirements at the Federal Reserve. As there is no longer any impact to reserve requirements across different deposit products, we have discontinued this product reclassification practice and have revised the presentation of those deposits to conform to the current presentation for periods prior to March 31, 2026.
+Certain insured reciprocal deposits acquired in the First Foundation acquisition were reclassified from savings deposits to money market deposits as of June 30, 2026, to conform to the current presentation.
+Additionally, in conjunction with the integration of First Foundation, certain deposit products were converted from money market accounts to interest bearing demand accounts in the third quarter of 2026.
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This press release contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact are forward-looking statements. Examples of forward-looking statements include, but are not limited to, statements regarding the impact of our acquisition of First Foundation and our completion of the related balance sheet repositioning strategy, our relationship-based business model, our markets, our risk profile, our ability to drive growth, that we are well positioned for continued success, and our ability to deliver strong financial results and sustainable long-term stockholder value. These statements reflect management’s current expectations and are not guarantees of future performance. Words such as “focus,” “confident,” “may,” “will,” “believe,” “anticipate,” “expect,” “intend,” “opportunity,” “continue,” “should,” “could,” “excited,” “progress” and variations of such words and similar expressions are intended to identify such forward-looking statements. Forward-looking statements are subject to risks, uncertainties and assumptions that are difficult to predict with regard to timing, extent, likelihood and degree of occurrence, which could cause actual results to differ materially from anticipated results. Such risks, uncertainties and assumptions, include, among others, the following: changes in interest rates and their related impact on macroeconomic conditions, customer behavior, our funding costs and our loan and securities portfolios; the quality or composition of our loan or investment portfolios and changes therein; failure to maintain our mortgage production flow to secondary markets; the sufficiency of liquidity and changes in our capital position; the inability of our infrastructure initiatives to reduce expenses; increased deposit volatility; potential regulatory developments; U.S. and global trade policies and tensions, including changes in, or the imposition of, tariffs and/or trade barriers and the economic impacts, volatility and uncertainty resulting therefrom; ongoing geopolitical conflicts, including hostilities involving Iran and the Middle East, which may contribute to volatility in energy prices, inflation, financial markets, cybersecurity threats, and broader macroeconomic conditions, any of which could adversely affect our borrowers, deposit base, liquidity, capital and results of operations; the possibility that the anticipated benefits of the First Foundation merger, including anticipated cost savings and strategic gains, are not realized when expected or at all; the integration of the businesses and operations of FirstSun and First Foundation may take longer than anticipated or be more costly than anticipated or have unanticipated adverse results relating to the combined company’s business; the diversion of management’s attention from ongoing business operations and opportunities due to the integration of the First Foundation merger; credit risk in our loan portfolio; and other factors, many of which are beyond our control.
+We caution readers that the foregoing list of factors is not exclusive, is not necessarily in order of importance and readers should not place undue reliance on any forward-looking statements. Additional information concerning additional factors that could materially affect the forward-looking statements in this press release can be found in the cautionary language included under the headings “Cautionary Note Regarding Forward-Looking Statements” and “Risk Factors” in FirstSun’s Annual Report on Form 10-K for the year ended December 31, 2025 and other documents subsequently filed by FirstSun with the SEC. Further, any forward-looking statement speaks only as of the date on which it is made and we do not intend to and disclaim any obligation to update or revise any forward-looking statement to reflect events or circumstances after the date on which the statement is made or to reflect the occurrence of unanticipated events, except as required by law.
+5
+Summary Data:
+As of and for the three months ended
+($ in thousands, except per share amounts) | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Net interest income | $ | 140,301 | $ | 143,195 | $ | 82,779 | $ | 83,461 | $ | 80,953
+Provision for credit losses | 4,400 | 40,400 | 8,250 | 6,200 | 10,100
+Noninterest income | 39,382 | 40,948 | 27,175 | 26,744 | 26,333
+Noninterest expense | 126,553 | 171,712 | 75,341 | 72,041 | 68,901
+Income (loss) before income taxes | 48,730 | (27,969) | 26,363 | 31,964 | 28,285
+Provision for (benefit from) income taxes | 10,348 | (5,119) | 4,780 | 7,157 | 5,111
+Net income (loss) | 38,382 | (22,850) | 21,583 | 24,807 | 23,174
+Adjusted net income1 | 48,212 | 21,021 | 23,673 | 26,923 | 23,412
+Weighted average common shares outstanding, basic | 46,304,015 | 46,722,106 | 27,851,041 | 27,839,044 | 27,801,255
+Weighted average common shares outstanding, diluted | 46,871,679 | 46,722,106 | 28,316,608 | 28,262,530 | 28,291,778
+Diluted earnings (loss) per share | $ | 0.82 | $ | (0.49) | $ | 0.76 | $ | 0.88 | $ | 0.82
+Adjusted diluted earnings per share1 | 1.03 | 0.45 | 0.84 | 0.95 | 0.83
+Return on average total assets | 0.98 | % | (0.54) | % | 1.04 | % | 1.17 | % | 1.09 | %
+Adjusted return on average total assets1 | 1.23 | % | 0.50 | % | 1.14 | % | 1.27 | % | 1.10 | %
+Return on average stockholders' equity | 8.23 | % | (4.92) | % | 7.47 | % | 8.58 | % | 8.22 | %
+Adjusted return on average stockholders' equity1 | 10.33 | % | 4.52 | % | 8.20 | % | 9.31 | % | 8.31 | %
+Return on average tangible stockholders' equity1 | 9.97 | % | (4.69) | % | 8.31 | % | 9.58 | % | 9.20 | %
+Adjusted return on average tangible stockholders' equity1 | 12.32 | % | 5.86 | % | 9.10 | % | 10.38 | % | 9.30 | %
+Net interest margin | 3.82 | % | 3.58 | % | 4.25 | % | 4.18 | % | 4.07 | %
+Net interest margin (FTE basis)1 | 3.87 | % | 3.63 | % | 4.31 | % | 4.23 | % | 4.12 | %
+Efficiency ratio | 70.43 | % | 93.25 | % | 68.52 | % | 65.37 | % | 64.22 | %
+Adjusted efficiency ratio1 | 63.06 | % | 61.99 | % | 66.08 | % | 63.36 | % | 64.00 | %
+Noninterest income to total revenue2 | 21.9 | % | 22.2 | % | 24.7 | % | 24.3 | % | 24.5 | %
+Total assets | $ | 15,276,885 | $ | 15,717,985 | $ | 8,565,123 | $ | 8,485,162 | $ | 8,495,437
+Loans held-for-sale | 120,491 | 140,706 | 144,407 | 100,539 | 85,250
+Loans held-for-investment | 11,457,891 | 11,568,443 | 6,939,972 | 6,673,180 | 6,681,629
+Total deposits | 12,970,958 | 13,418,004 | 7,087,513 | 7,107,356 | 7,105,415
+Total stockholders' equity | 1,810,506 | 1,837,392 | 1,175,507 | 1,153,356 | 1,127,513
+Loan to deposit ratio | 88.3 | % | 86.2 | % | 97.9 | % | 93.9 | % | 94.0 | %
+Period end common shares outstanding | 45,552,676 | 46,765,434 | 27,935,888 | 27,887,337 | 27,854,764
+Book value per share | $ | 39.75 | $ | 39.29 | $ | 42.08 | $ | 41.36 | $ | 40.48
+Tangible book value per share1 | 35.60 | 35.16 | 38.57 | 37.83 | 36.92
+1 Represents a non-GAAP financial measure. See the tables beginning on page 16 for a reconciliation of each non-GAAP measure to the most comparable GAAP equivalent.
+2 Total revenue is net interest income plus noninterest income.
+6
+Summary Data (cont’d):
+As of and for the nine months ended
+($ in thousands, except per share amounts) | September 30, 2026 | September 30, 2025
+Net interest income | $ | 366,275 | $ | 233,930
+Provision for credit losses | 53,050 | 18,400
+Noninterest income | 107,505 | 75,135
+Noninterest expense | 373,606 | 199,733
+Income before income taxes | 47,124 | 90,932
+Provision for income taxes | 10,009 | 17,803
+Net income | 37,115 | 73,129
+Adjusted net income1 | 92,906 | 73,655
+Weighted average common shares outstanding, basic | 40,343,797 | 27,769,320
+Weighted average common shares outstanding, diluted | 40,901,707 | 28,274,134
+Diluted earnings per share | $ | 0.91 | $ | 2.59
+Adjusted diluted earnings per share1 | $ | 2.27 | $ | 2.61
+Return on average total assets | 0.36 | % | 1.19 | %
+Adjusted return on average total assets1 | 0.91 | % | 1.20 | %
+Return on average stockholders' equity | 3.04 | % | 8.99 | %
+Adjusted return on average stockholders’ equity1 | 7.61 | % | 9.05 | %
+Return on average tangible stockholders' equity1 | 4.02 | % | 10.08 | %
+Adjusted return on average tangible stockholders' equity1 | 9.10 | % | 10.16 | %
+Net interest margin | 3.81 | % | 4.07 | %
+Net interest margin (FTE basis)1 | 3.86 | % | 4.13 | %
+Efficiency ratio | 78.86 | % | 64.62 | %
+Adjusted efficiency ratio1 | 63.35 | % | 64.45 | %
+Noninterest income to total revenue2 | 22.7 | % | 24.3 | %
+Total assets | $ | 15,276,885 | $ | 8,495,437
+Loans held-for-sale | 120,491 | 85,250
+Loans held-for-investment | 11,457,891 | 6,681,629
+Total deposits | 12,970,958 | 7,105,415
+Total stockholders' equity | 1,810,506 | 1,127,513
+Loan to deposit ratio | 88.3 | % | 94.0 | %
+Period end common shares outstanding | 45,552,676 | 27,854,764
+Book value per share | $ | 39.75 | $ | 40.48
+Tangible book value per share1 | $ | 35.60 | $ | 36.92
+1 Represents a non-GAAP financial measure. See the tables beginning on page 16 for a reconciliation of each non-GAAP measure to the most comparable GAAP equivalent.
+2 Total revenue is net interest income plus noninterest income.
+7
+Condensed Consolidated Statements of Income (Unaudited):
+For the three months ended | For the nine months ended
+($ in thousands, except per share amounts) | September 30, 2026 | September 30, 2025 | September 30, 2026 | September 30, 2025
+Total interest income | $ | 216,662 | $ | 121,128 | $ | 562,804 | $ | 348,496
+Total interest expense | 76,361 | 40,175 | 196,529 | 114,566
+Net interest income | 140,301 | 80,953 | 366,275 | 233,930
+Provision for credit losses | 4,400 | 10,100 | 53,050 | 18,400
+Net interest income after credit loss expense | 135,901 | 70,853 | 313,225 | 215,530
+Noninterest income:
+Deposit account service fees | 2,371 | 2,162 | 6,759 | 6,205
+Treasury management service fees | 5,096 | 4,402 | 14,776 | 12,929
+Credit and debit card fees | 3,060 | 2,671 | 8,725 | 7,985
+Trust and investment advisory fees | 9,881 | 1,536 | 20,783 | 4,430
+Mortgage banking services, net | 12,743 | 12,641 | 43,016 | 34,970
+Other noninterest income | 6,231 | 2,921 | 13,446 | 8,616
+Total noninterest income | 39,382 | 26,333 | 107,505 | 75,135
+Noninterest expense:
+Salary and employee benefits | 63,344 | 44,822 | 179,444 | 128,304
+Occupancy, equipment and software | 15,532 | 9,591 | 41,042 | 28,668
+Customer service costs | 2,762 | — | 5,504 | —
+Amortization and impairment of intangible assets | 4,238 | 578 | 8,982 | 1,784
+Merger related expenses | 13,246 | 241 | 73,486 | 526
+Other noninterest expenses | 27,431 | 13,669 | 65,148 | 40,451
+Total noninterest expense | 126,553 | 68,901 | 373,606 | 199,733
+Income before income taxes | 48,730 | 28,285 | 47,124 | 90,932
+Provision for income taxes | 10,348 | 5,111 | 10,009 | 17,803
+Net income | $ | 38,382 | $ | 23,174 | $ | 37,115 | $ | 73,129
+Earnings per share - basic | $ | 0.83 | $ | 0.83 | $ | 0.92 | $ | 2.63
+Earnings per share - diluted | 0.82 | 0.82 | $ | 0.91 | $ | 2.59
+8
+Condensed Consolidated Statements of Income (Unaudited) (cont’d):
+For the three months ended
+($ in thousands, except per share amounts) | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Total interest income | $ | 216,662 | $ | 230,016 | $ | 116,126 | $ | 119,273 | $ | 121,128
+Total interest expense | 76,361 | 86,821 | 33,347 | 35,812 | 40,175
+Net interest income | 140,301 | 143,195 | 82,779 | 83,461 | 80,953
+Provision for credit losses | 4,400 | 40,400 | 8,250 | 6,200 | 10,100
+Net interest income after credit loss expense | 135,901 | 102,795 | 74,529 | 77,261 | 70,853
+Noninterest income:
+Deposit account service fees | 2,371 | 2,292 | 2,096 | 2,116 | 2,162
+Treasury management service fees | 5,096 | 5,067 | 4,613 | 4,544 | 4,402
+Credit and debit card fees | 3,060 | 2,952 | 2,713 | 2,744 | 2,671
+Trust and investment advisory fees | 9,881 | 9,413 | 1,489 | 1,515 | 1,536
+Mortgage banking services, net | 12,743 | 15,958 | 14,315 | 12,102 | 12,641
+Other noninterest income | 6,231 | 5,266 | 1,949 | 3,723 | 2,921
+Total noninterest income | 39,382 | 40,948 | 27,175 | 26,744 | 26,333
+Noninterest expense:
+Salary and employee benefits | 63,344 | 68,744 | 47,356 | 43,520 | 44,822
+Occupancy, equipment and software | 15,532 | 15,504 | 10,006 | 9,576 | 9,591
+Customer service costs | 2,762 | 2,742 | — | — | —
+Amortization and impairment of intangible assets | 4,238 | 4,237 | 507 | 628 | 578
+Merger related expenses | 13,246 | 57,559 | 2,681 | 2,217 | 241
+Other noninterest expenses | 27,431 | 22,926 | 14,791 | 16,100 | 13,669
+Total noninterest expense | 126,553 | 171,712 | 75,341 | 72,041 | 68,901
+Income (loss) before income taxes | 48,730 | (27,969) | 26,363 | 31,964 | 28,285
+Provision for (benefit from) income taxes | 10,348 | (5,119) | 4,780 | 7,157 | 5,111
+Net income (loss) | $ | 38,382 | $ | (22,850) | $ | 21,583 | $ | 24,807 | $ | 23,174
+Earnings (loss) per share - basic | $ | 0.83 | $ | (0.49) | $ | 0.77 | $ | 0.89 | $ | 0.83
+Earnings (loss) per share - diluted | 0.82 | (0.49) | 0.76 | 0.88 | 0.82
+9
+Condensed Consolidated Balance Sheets as of (Unaudited):
+($ in thousands) | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Assets
+Cash and cash equivalents | $ | 729,157 | $ | 989,511 | $ | 413,732 | $ | 652,592 | $ | 659,899
+Securities available-for-sale, at fair value | 1,827,344 | 1,907,374 | 458,543 | 468,970 | 476,114
+Securities held-to-maturity | 32,213 | 33,274 | 33,553 | 33,839 | 34,247
+Loans held-for-sale, at fair value | 120,491 | 140,706 | 144,407 | 100,539 | 85,250
+Loans | 11,457,891 | 11,568,443 | 6,939,972 | 6,673,180 | 6,681,629
+Allowance for credit losses | (174,638) | (173,551) | (82,955) | (85,016) | (84,040)
+Loans, net | 11,283,253 | 11,394,892 | 6,857,017 | 6,588,164 | 6,597,589
+Mortgage servicing rights, at fair value | 107,405 | 99,736 | 88,993 | 86,651 | 85,695
+Premises and equipment, net | 118,751 | 118,967 | 81,138 | 81,523 | 81,886
+Other real estate owned and foreclosed assets, net | 20,502 | 16,808 | 10,908 | 11,514 | 13,418
+Goodwill | 102,536 | 102,536 | 93,483 | 93,483 | 93,483
+Core deposits and other intangible assets, net | 86,215 | 90,452 | 4,476 | 4,983 | 5,650
+Other assets | 849,018 | 823,729 | 378,873 | 362,904 | 362,206
+Total assets | $ | 15,276,885 | $ | 15,717,985 | $ | 8,565,123 | $ | 8,485,162 | $ | 8,495,437
+Liabilities and Stockholders' Equity
+Liabilities:
+Deposits:
+Noninterest-bearing accounts | $ | 2,671,066 | $ | 2,673,289 | $ | 1,599,919 | $ | 1,651,373 | $ | 1,674,497
+Interest-bearing accounts:
+Demand and NOW | 3,181,848 | 2,869,439 | 1,569,910 | 1,483,841 | 1,457,886
+Savings | 1,747,226 | 1,961,598 | 387,140 | 378,631 | 386,235
+Money market | 3,436,362 | 3,902,069 | 2,318,768 | 2,301,837 | 2,233,309
+Certificates of deposit | 1,934,456 | 2,011,609 | 1,211,776 | 1,291,674 | 1,353,488
+Total deposits | 12,970,958 | 13,418,004 | 7,087,513 | 7,107,356 | 7,105,415
+Securities sold under agreements to repurchase | 18,687 | 17,475 | 7,670 | 11,160 | 9,824
+Federal Home Loan Bank advances | — | — | 75,000 | — | —
+Subordinated debt, net | 206,222 | 205,256 | 36,754 | 36,680 | 76,163
+Other liabilities | 270,512 | 239,858 | 182,679 | 176,610 | 176,522
+Total liabilities | 13,466,379 | 13,880,593 | 7,389,616 | 7,331,806 | 7,367,924
+Stockholders' equity:
+Preferred stock | — | — | — | — | —
+Common stock | 5 | 5 | 3 | 3 | 3
+Additional paid-in capital | 1,189,456 | 1,238,000 | 550,709 | 549,617 | 548,952
+Retained earnings | 668,201 | 629,819 | 652,669 | 631,086 | 606,279
+Accumulated other comprehensive loss, net | (47,156) | (30,432) | (27,874) | (27,350) | (27,721)
+Total stockholders' equity | 1,810,506 | 1,837,392 | 1,175,507 | 1,153,356 | 1,127,513
+Total liabilities and stockholders' equity | $ | 15,276,885 | $ | 15,717,985 | $ | 8,565,123 | $ | 8,485,162 | $ | 8,495,437
+10
+Consolidated Capital Ratios as of:
+September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Stockholders' equity to total assets | 11.85 | % | 11.69 | % | 13.72 | % | 13.59 | % | 13.27 | %
+Tangible stockholders' equity to tangible assets1 | 10.75 | % | 10.59 | % | 12.73 | % | 12.58 | % | 12.25 | %
+Tangible stockholders' equity to tangible assets reflecting net unrealized losses on HTM securities, net of tax1, 2 | 10.72 | % | 10.57 | % | 12.69 | % | 12.54 | % | 12.21 | %
+Tier 1 leverage ratio | 10.33 | % | 9.47 | % | 13.06 | % | 12.75 | % | 12.44 | %
+Common equity tier 1 risk-based capital ratio | 11.99 | % | 11.95 | % | 13.77 | % | 14.12 | % | 13.79 | %
+Tier 1 risk-based capital ratio | 11.99 | % | 11.95 | % | 13.77 | % | 14.12 | % | 13.79 | %
+Total risk-based capital ratio | 14.29 | % | 14.13 | % | 15.29 | % | 15.73 | % | 15.81 | %
+1 Represents a non-GAAP financial measure. See the tables beginning on page 16 for a reconciliation of each non-GAAP measure to the most comparable GAAP equivalent. 2 Tangible stockholders’ equity and tangible assets have been adjusted to reflect net unrealized losses on held-to-maturity securities, net of tax.
+11
+Summary of Net Interest Margin:
+For the three months ended | For the nine months ended
+September 30, 2026 | September 30, 2025 | September 30, 2026 | September 30, 2025
+(In thousands) | Average Balance | Average Yield/Rate | Average Balance | Average Yield/Rate | Average Balance | Average Yield/Rate | Average Balance | Average Yield/Rate
+Interest Earning Assets
+Loans1 | $ | 11,650,322 | 6.33 | % | $ | 6,667,158 | 6.49 | % | $ | 10,418,262 | 6.27 | % | $ | 6,570,356 | 6.43 | %
+Investment securities | 1,912,990 | 4.52 | % | 505,999 | 3.43 | % | 1,507,230 | 4.52 | % | 506,068 | 3.48 | %
+Interest-bearing cash and other assets | 1,015,170 | 3.49 | % | 714,885 | 4.25 | % | 935,974 | 3.34 | % | 604,936 | 4.29 | %
+Total earning assets | 14,578,482 | 5.90 | % | 7,888,042 | 6.09 | % | 12,861,466 | 5.85 | % | 7,681,360 | 6.07 | %
+Other assets | 953,709 | 540,079 | 814,541 | 542,038
+Total assets | $ | 15,532,191 | $ | 8,428,121 | $ | 13,676,007 | $ | 8,223,398
+Interest-bearing liabilities
+Demand and NOW deposits | $ | 2,782,453 | 2.05 | % | $ | 1,437,298 | 1.89 | % | $ | 2,445,045 | 1.98 | % | $ | 1,475,608 | 1.77 | %
+Savings deposits | 1,917,139 | 2.82 | % | 391,444 | 0.59 | % | 1,410,811 | 2.62 | % | 397,745 | 0.58 | %
+Money market deposits | 3,896,991 | 2.90 | % | 2,211,754 | 3.28 | % | 3,443,184 | 2.88 | % | 1,947,606 | 3.23 | %
+Certificates of deposit | 1,935,244 | 3.37 | % | 1,397,371 | 3.64 | % | 1,982,827 | 3.35 | % | 1,482,529 | 3.77 | %
+Total deposits | 10,531,827 | 2.75 | % | 5,437,867 | 2.81 | % | 9,281,867 | 2.70 | % | 5,303,488 | 2.78 | %
+Repurchase agreements | 19,963 | 2.50 | % | 8,055 | 1.82 | % | 17,752 | 2.40 | % | 8,892 | 1.66 | %
+Total deposits and repurchase agreements | 10,551,790 | 2.75 | % | 5,445,922 | 2.81 | % | 9,299,619 | 2.70 | % | 5,312,380 | 2.77 | %
+FHLB borrowings | — | — | % | — | — | % | 50,154 | 3.95 | % | 10,491 | 4.61 | %
+Other long-term borrowings | 205,786 | 6.38 | % | 76,117 | 8.41 | % | 149,676 | 6.37 | % | 76,017 | 7.02 | %
+Total interest-bearing liabilities | 10,757,576 | 2.82 | % | 5,522,039 | 2.89 | % | 9,499,449 | 2.77 | % | 5,398,888 | 2.84 | %
+Noninterest-bearing deposits | 2,665,398 | 1,642,346 | 2,307,562 | 1,587,670
+Other liabilities | 257,967 | 145,730 | 237,672 | 148,675
+Stockholders' equity | 1,851,250 | 1,118,006 | 1,631,324 | 1,088,165
+Total liabilities and stockholders' equity | $ | 15,532,191 | $ | 8,428,121 | $ | 13,676,007 | $ | 8,223,398
+Net interest spread | 3.08 | % | 3.20 | % | 3.08 | % | 3.23 | %
+Net interest margin | 3.82 | % | 4.07 | % | 3.81 | % | 4.07 | %
+Net interest margin (on FTE basis)2 | 3.87 | % | 4.12 | % | 3.86 | % | 4.13 | %
+1 Includes loans held-for-investment, including nonaccrual loans, and loans held-for-sale.
+2 Represents a non-GAAP financial measure. See the tables beginning on page 16 for a reconciliation of each non-GAAP measure to the most comparable GAAP equivalent.
+12
+Summary of Net Interest Margin (cont’d ):
+For the three months ended
+September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+(In thousands) | Average Balance | Average Yield/Rate | Average Balance | Average Yield/Rate | Average Balance | Average Yield/Rate | Average Balance | Average Yield/Rate | Average Balance | Average Yield/Rate
+Interest Earning Assets
+Loans1 | $ | 11,650,322 | 6.33 | % | $ | 12,694,317 | 6.16 | % | $ | 6,857,477 | 6.36 | % | $ | 6,825,404 | 6.37 | % | $ | 6,667,158 | 6.49 | %
+Investment securities | 1,912,990 | 4.52 | % | 2,093,214 | 4.80 | % | 499,792 | 3.30 | % | 506,964 | 3.35 | % | 505,999 | 3.43 | %
+Interest-bearing cash and other assets | 1,015,170 | 3.49 | % | 1,244,337 | 3.20 | % | 543,396 | 3.36 | % | 583,717 | 3.68 | % | 714,885 | 4.25 | %
+Total earning assets | 14,578,482 | 5.90 | % | 16,031,868 | 5.75 | % | 7,900,665 | 5.96 | % | 7,916,085 | 5.98 | % | 7,888,042 | 6.09 | %
+Other assets | 953,709 | 962,089 | 523,094 | 519,607 | 540,079
+Total assets | $ | 15,532,191 | $ | 16,993,957 | $ | 8,423,759 | $ | 8,435,692 | $ | 8,428,121
+Interest-bearing liabilities
+Demand and NOW deposits | $ | 2,782,453 | 2.05 | % | $ | 3,012,754 | 2.06 | % | $ | 1,526,124 | 1.69 | % | $ | 1,464,053 | 1.75 | % | $ | 1,437,298 | 1.89 | %
+Savings deposits | 1,917,139 | 2.82 | % | 1,970,300 | 2.84 | % | 382,025 | 0.50 | % | 381,978 | 0.55 | % | 391,444 | 0.59 | %
+Money market deposits | 3,896,991 | 2.90 | % | 4,069,523 | 2.87 | % | 2,291,494 | 2.84 | % | 2,247,034 | 2.99 | % | 2,211,754 | 3.28 | %
+Certificates of deposit | 1,935,244 | 3.37 | % | 2,798,815 | 3.35 | % | 1,206,411 | 3.32 | % | 1,284,200 | 3.49 | % | 1,397,371 | 3.64 | %
+Total deposits | 10,531,827 | 2.75 | % | 11,851,392 | 2.77 | % | 5,406,054 | 2.46 | % | 5,377,265 | 2.60 | % | 5,437,867 | 2.81 | %
+Repurchase agreements | 19,963 | 2.50 | % | 23,468 | 2.61 | % | 9,712 | 1.70 | % | 9,146 | 1.71 | % | 8,055 | 1.82 | %
+Total deposits and repurchase agreements | 10,551,790 | 2.75 | % | 11,874,860 | 2.77 | % | 5,415,766 | 2.46 | % | 5,386,411 | 2.60 | % | 5,445,922 | 2.81 | %
+FHLB borrowings | — | — | % | 149,374 | 3.97 | % | 1,100 | 3.12 | % | — | — | % | — | — | %
+Other long-term borrowings | 205,786 | 6.38 | % | 204,667 | 6.46 | % | 36,719 | 5.72 | % | 36,650 | 5.82 | % | 76,117 | 8.41 | %
+Total interest-bearing liabilities | 10,757,576 | 2.82 | % | 12,228,901 | 2.85 | % | 5,453,585 | 2.48 | % | 5,423,061 | 2.62 | % | 5,522,039 | 2.89 | %
+Noninterest-bearing deposits | 2,665,398 | 2,622,311 | 1,623,528 | 1,698,126 | 1,642,346
+Other liabilities | 257,967 | 278,849 | 175,292 | 167,658 | 145,730
+Stockholders' equity | 1,851,250 | 1,863,896 | 1,171,354 | 1,146,847 | 1,118,006
+Total liabilities and stockholders' equity | $ | 15,532,191 | $ | 16,993,957 | $ | 8,423,759 | $ | 8,435,692 | $ | 8,428,121
+Net interest spread | 3.08 | % | 2.90 | % | 3.48 | % | 3.36 | % | 3.20 | %
+Net interest margin | 3.82 | % | 3.58 | % | 4.25 | % | 4.18 | % | 4.07 | %
+Net interest margin (on FTE basis)2 | 3.87 | % | 3.63 | % | 4.31 | % | 4.23 | % | 4.12 | %
+1 Includes loans held-for-investment, including nonaccrual loans, and loans held-for-sale.
+2 Represents a non-GAAP financial measure. See the tables beginning on page 16 for a reconciliation of each non-GAAP measure to the most comparable GAAP equivalent.
+13
+Deposits as of:
+($ in thousands) | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Consumer
+Noninterest-bearing deposit accounts | $ | 1,093,197 | $ | 1,000,584 | $ | 410,296 | $ | 404,666 | $ | 412,568
+Interest-bearing deposit accounts:
+Demand and NOW | 1,048,086 | 937,796 | 607,465 | 590,535 | 598,499
+Savings | 1,233,040 | 1,469,618 | 313,910 | 308,655 | 314,954
+Money market | 2,144,717 | 2,488,103 | 1,397,890 | 1,400,593 | 1,416,258
+Certificates of deposit | 938,097 | 1,044,959 | 793,503 | 809,401 | 869,077
+Total interest-bearing deposit accounts | 5,363,940 | 5,940,476 | 3,112,768 | 3,109,184 | 3,198,788
+Total consumer deposits | $ | 6,457,137 | $ | 6,941,060 | $ | 3,523,064 | $ | 3,513,850 | $ | 3,611,356
+Business
+Noninterest-bearing deposit accounts | $ | 1,577,869 | $ | 1,672,705 | $ | 1,189,623 | $ | 1,246,707 | $ | 1,261,929
+Interest-bearing deposit accounts:
+Demand and NOW | 2,133,750 | 1,905,387 | 962,445 | 893,306 | 859,387
+Savings | 478,534 | 434,076 | 73,230 | 69,976 | 71,281
+Money market | 1,291,645 | 1,413,966 | 920,878 | 901,244 | 817,051
+Certificates of deposit | 126,640 | 103,360 | 51,940 | 57,349 | 57,225
+Total interest-bearing deposit accounts | 4,030,569 | 3,856,789 | 2,008,493 | 1,921,875 | 1,804,944
+Total business deposits | $ | 5,608,438 | $ | 5,529,494 | $ | 3,198,116 | $ | 3,168,582 | $ | 3,066,873
+Wholesale1 | $ | 905,383 | $ | 947,450 | $ | 366,333 | $ | 424,924 | $ | 427,186
+Total deposits | $ | 12,970,958 | $ | 13,418,004 | $ | 7,087,513 | $ | 7,107,356 | $ | 7,105,415
+1 Wholesale deposits primarily consist of brokered deposits included in our condensed consolidated balance sheets within certificates of deposit.
+Balance Sheet Ratios as of:
+September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Cash to total assets1 | 4.7 | % | 6.2 | % | 4.7 | % | 7.6 | % | 7.7 | %
+Loan to deposit ratio | 88.3 | % | 86.2 | % | 97.9 | % | 93.9 | % | 94.0 | %
+Uninsured deposits to total deposits2 | 33.2 | % | 31.6 | % | 35.4 | % | 36.6 | % | 36.2 | %
+Uninsured and uncollateralized deposits to total deposits2 | 25.8 | % | 28.0 | % | 28.6 | % | 29.0 | % | 28.3 | %
+Wholesale deposits and borrowings to total liabilities3 | 6.7 | % | 6.8 | % | 6.0 | % | 5.8 | % | 5.8 | %
+1 Cash consists of unencumbered cash and amounts due from banks and interest-bearing deposits with other financial institutions. 2 Uninsured deposits and uninsured and uncollateralized deposits are reported for our wholly-owned subsidiary Sunflower Bank, N.A. and are estimated. 3 Wholesale deposits primarily consist of brokered deposits included in our condensed consolidated balance sheets within certificates of deposit. Wholesale borrowings consist of FHLB overnight and term advances.
+14
+Loan Portfolio as of:
+($ in thousands) | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Commercial and industrial | $ | 3,663,661 | $ | 3,579,772 | $ | 3,160,777 | $ | 2,937,867 | $ | 2,945,697
+Commercial real estate:
+Non-owner occupied | 1,136,193 | 1,195,172 | 778,778 | 742,002 | 725,425
+Owner occupied | 919,091 | 951,226 | 694,190 | 700,774 | 668,172
+Construction and land | 256,561 | 218,441 | 280,781 | 268,652 | 343,803
+Multifamily | 2,543,964 | 2,613,194 | 227,980 | 210,368 | 183,504
+Total commercial real estate | 4,855,809 | 4,978,033 | 1,981,729 | 1,921,796 | 1,920,904
+Residential real estate1 | 1,891,223 | 1,913,575 | 1,216,810 | 1,221,086 | 1,209,742
+Public Finance | 929,074 | 957,556 | 494,539 | 501,582 | 516,247
+Consumer | 36,815 | 29,569 | 31,875 | 32,651 | 38,931
+Other | 100,905 | 114,047 | 54,242 | 58,198 | 50,108
+Loans, excluding loan hedge fair value | 11,477,487 | 11,572,552 | 6,939,972 | 6,673,180 | 6,681,629
+Loan hedge fair value2 | (19,596) | (4,109) | — | — | —
+Loans | $ | 11,457,891 | $ | 11,568,443 | $ | 6,939,972 | $ | 6,673,180 | $ | 6,681,629
+1 Includes 1-4 family residential construction. 2 Represents fair value hedge basis adjustments related to active portfolio layer method hedges, which are not allocated to individual loans.
+Asset Quality:
+As of and for the three months ended
+($ in thousands) | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025
+Net charge-offs | $ | 3,313 | $ | 42,404 | $ | 10,561 | $ | 5,024 | $ | 9,053
+Allowance for credit losses | 174,638 | 173,551 | 82,955 | 85,016 | 84,040
+Nonperforming loans, including nonaccrual loans, and accrual loans greater than 90 days past due | 202,851 | 190,115 | 59,656 | 60,771 | 69,641
+Nonperforming assets | 223,353 | 206,923 | 70,564 | 72,285 | 83,059
+Ratio of net charge-offs to average loans outstanding | 0.11 | % | 1.45 | % | 0.63 | % | 0.30 | % | 0.55 | %
+Allowance for credit losses to loans outstanding | 1.52 | % | 1.50 | % | 1.20 | % | 1.27 | % | 1.26 | %
+Allowance for credit losses to nonperforming loans | 86.09 | % | 91.29 | % | 139.06 | % | 139.90 | % | 120.68 | %
+Nonperforming loans to loans | 1.77 | % | 1.64 | % | 0.86 | % | 0.91 | % | 1.04 | %
+Nonperforming assets to total assets | 1.46 | % | 1.32 | % | 0.82 | % | 0.85 | % | 0.98 | %
+15
+Non-GAAP Financial Measures and Reconciliations:
+As of and for the three months ended | As of and for the nine months ended
+($ in thousands, except share and per share amounts) | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025 | September 30, 2026 | September 30, 2025
+Tangible stockholders’ equity to tangible assets:
+Total stockholders' equity (GAAP) | $ | 1,810,506 | $ | 1,837,392 | $ | 1,175,507 | $ | 1,153,356 | $ | 1,127,513 | $ | 1,810,506 | $ | 1,127,513
+Less: Goodwill and other intangible assets
+Goodwill | (102,536) | (102,536) | (93,483) | (93,483) | (93,483) | (102,536) | (93,483)
+Other intangible assets | (86,215) | (90,452) | (4,476) | (4,983) | (5,650) | (86,215) | (5,650)
+Tangible stockholders' equity (non-GAAP) | $ | 1,621,755 | $ | 1,644,404 | $ | 1,077,548 | $ | 1,054,890 | $ | 1,028,380 | $ | 1,621,755 | $ | 1,028,380
+Total assets (GAAP) | $ | 15,276,885 | $ | 15,717,985 | $ | 8,565,123 | $ | 8,485,162 | $ | 8,495,437 | $ | 15,276,885 | $ | 8,495,437
+Less: Goodwill and other intangible assets
+Goodwill | (102,536) | (102,536) | (93,483) | (93,483) | (93,483) | (102,536) | (93,483)
+Other intangible assets | (86,215) | (90,452) | (4,476) | (4,983) | (5,650) | (86,215) | (5,650)
+Tangible assets (non-GAAP) | $ | 15,088,134 | $ | 15,524,997 | $ | 8,467,164 | $ | 8,386,696 | $ | 8,396,304 | $ | 15,088,134 | $ | 8,396,304
+Total stockholders' equity to total assets (GAAP) | 11.85 | % | 11.69 | % | 13.72 | % | 13.59 | % | 13.27 | % | 11.85 | % | 13.27 | %
+Less: Impact of goodwill and other intangible assets | (1.10) | % | (1.10) | % | (0.99) | % | (1.01) | % | (1.02) | % | (1.10) | % | (1.02) | %
+Tangible stockholders' equity to tangible assets (non-GAAP) | 10.75 | % | 10.59 | % | 12.73 | % | 12.58 | % | 12.25 | % | 10.75 | % | 12.25 | %
+Tangible stockholders’ equity to tangible assets, reflecting net unrealized losses on HTM securities, net of tax:
+Tangible stockholders' equity (non-GAAP) | $ | 1,621,755 | $ | 1,644,404 | $ | 1,077,548 | $ | 1,054,890 | $ | 1,028,380 | $ | 1,621,755 | $ | 1,028,380
+Less: Net unrealized losses on HTM securities, net of tax | (4,315) | (3,553) | (3,407) | (3,320) | (3,432) | (4,315) | (3,432)
+Tangible stockholders’ equity less net unrealized losses on HTM securities, net of tax (non-GAAP) | $ | 1,617,440 | $ | 1,640,851 | $ | 1,074,141 | $ | 1,051,570 | $ | 1,024,948 | $ | 1,617,440 | $ | 1,024,948
+Tangible assets (non-GAAP) | $ | 15,088,134 | $ | 15,524,997 | $ | 8,467,164 | $ | 8,386,696 | $ | 8,396,304 | $ | 15,088,134 | $ | 8,396,304
+Less: Net unrealized losses on HTM securities, net of tax | (4,315) | (3,553) | (3,407) | (3,320) | (3,432) | (4,315) | (3,432)
+Tangible assets less net unrealized losses on HTM securities, net of tax (non-GAAP) | $ | 15,083,819 | $ | 15,521,444 | $ | 8,463,757 | $ | 8,383,376 | $ | 8,392,872 | $ | 15,083,819 | $ | 8,392,872
+Tangible stockholders’ equity to tangible assets (non-GAAP) | 10.75 | % | 10.59 | % | 12.73 | % | 12.58 | % | 12.25 | % | 10.75 | % | 12.25 | %
+Less: Impact of net unrealized losses on HTM securities, net of tax | (0.03) | % | (0.02) | % | (0.04) | % | (0.04) | % | (0.04) | % | (0.03) | % | (0.04) | %
+Tangible stockholders’ equity to tangible assets reflecting net unrealized losses on HTM securities, net of tax (non-GAAP) | 10.72 | % | 10.57 | % | 12.69 | % | 12.54 | % | 12.21 | % | 10.72 | % | 12.21 | %
+16
+Non-GAAP Financial Measures and Reconciliations:
+As of and for the three months ended | As of and for the nine months ended
+($ in thousands, except share and per share amounts) | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025 | September 30, 2026 | September 30, 2025
+Tangible book value per share:
+Total stockholders' equity (GAAP) | $ | 1,810,506 | $ | 1,837,392 | $ | 1,175,507 | $ | 1,153,356 | $ | 1,127,513 | $ | 1,810,506 | $ | 1,127,513
+Tangible stockholders' equity (non-GAAP) | 1,621,755 | 1,644,404 | 1,077,548 | 1,054,890 | 1,028,380 | $ | 1,621,755 | $ | 1,028,380
+Total shares outstanding | 45,552,676 | 46,765,434 | 27,935,888 | 27,887,337 | 27,854,764 | 45,552,676 | 27,854,764
+Book value per share (GAAP) | $ | 39.75 | $ | 39.29 | $ | 42.08 | $ | 41.36 | $ | 40.48 | $ | 39.75 | $ | 40.48
+Tangible book value per share (non-GAAP) | $ | 35.60 | $ | 35.16 | $ | 38.57 | $ | 37.83 | $ | 36.92 | $ | 35.60 | $ | 36.92
+Adjusted net income:
+Net income (loss) (GAAP) | $ | 38,382 | $ | (22,850) | $ | 21,583 | $ | 24,807 | $ | 23,174 | $ | 37,115 | $ | 73,129
+Add: Adjustments
+Merger related expenses, net of tax | 9,830 | 43,871 | 2,090 | 2,116 | 238 | 55,791 | 526
+Total adjustments, net of tax | 9,830 | 43,871 | 2,090 | 2,116 | 238 | 55,791 | 526
+Adjusted net income (non-GAAP) | $ | 48,212 | $ | 21,021 | $ | 23,673 | $ | 26,923 | $ | 23,412 | $ | 92,906 | $ | 73,655
+Adjusted diluted earnings per share:
+Diluted earnings (loss) per share (GAAP) | $ | 0.82 | $ | (0.49) | $ | 0.76 | $ | 0.88 | $ | 0.82 | $ | 0.91 | $ | 2.59
+Add: Impact of adjustments
+Merger related expenses, net of tax | 0.21 | 0.94 | 0.08 | 0.07 | 0.01 | 1.36 | 0.02
+Adjusted diluted earnings per share (non-GAAP) | $ | 1.03 | $ | 0.45 | $ | 0.84 | $ | 0.95 | $ | 0.83 | $ | 2.27 | $ | 2.61
+Adjusted return on average total assets:
+Return on average total assets (ROAA) (GAAP) | 0.98 | % | (0.54) | % | 1.04 | % | 1.17 | % | 1.09 | % | 0.36 | % | 1.19 | %
+Add: Impact of adjustments
+Merger related expenses, net of tax | 0.25 | % | 1.04 | % | 0.10 | % | 0.10 | % | 0.01 | % | 0.55 | % | 0.01 | %
+Adjusted ROAA (non-GAAP) | 1.23 | % | 0.50 | % | 1.14 | % | 1.27 | % | 1.10 | % | 0.91 | % | 1.20 | %
+Adjusted return on average stockholders’ equity:
+Return on average stockholders' equity (ROAE) (GAAP) | 8.23 | % | (4.92) | % | 7.47 | % | 8.58 | % | 8.22 | % | 3.04 | % | 8.99 | %
+Add: Impact of adjustments
+Merger related expenses, net of tax | 2.10 | % | 9.44 | % | 0.73 | % | 0.73 | % | 0.09 | % | 4.57 | % | 0.06 | %
+Adjusted ROAE (non-GAAP) | 10.33 | % | 4.52 | % | 8.20 | % | 9.31 | % | 8.31 | % | 7.61 | % | 9.05 | %
+17
+Non-GAAP Financial Measures and Reconciliations:
+As of and for the three months ended | As of and for the nine months ended
+($ in thousands, except share and per share amounts) | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025 | September 30, 2026 | September 30, 2025
+Tangible net income:
+Net Income (GAAP) | $ | 38,382 | $ | (22,850) | $ | 21,583 | $ | 24,807 | $ | 23,174 | $ | 37,115 | $ | 73,129
+Add: Intangible amortization, net of tax | 3,348 | 3,347 | 401 | 496 | 457 | 7,096 | 1,409
+Tangible net income (non-GAAP) | $ | 41,730 | $ | (19,503) | $ | 21,984 | $ | 25,303 | $ | 23,631 | $ | 44,211 | $ | 74,538
+Return on average tangible stockholders’ equity
+Return on average stockholders’ equity (ROAE) (GAAP) | 8.23 | % | (4.92) | % | 7.47 | % | 8.58 | % | 8.22 | % | 3.04 | % | 8.99 | %
+Add: Impact of excluding average goodwill and other intangible assets, inclusive of after-tax intangible amortization
+Goodwill | 0.94 | % | (0.57) | % | 0.69 | % | 0.81 | % | 0.81 | % | 0.34 | % | 0.90 | %
+Other intangible assets | 0.80 | % | 0.80 | % | 0.15 | % | 0.19 | % | 0.17 | % | 0.64 | % | 0.19 | %
+Return on average tangible stockholders’ equity (ROATE) (non-GAAP) | 9.97 | % | (4.69) | % | 8.31 | % | 9.58 | % | 9.20 | % | 4.02 | % | 10.08 | %
+Adjusted return on average tangible stockholders’ equity:
+Return on average tangible stockholders' equity (ROATE) (non-GAAP) | 9.97 | % | (4.69) | % | 8.31 | % | 9.58 | % | 9.20 | % | 4.02 | % | 10.08 | %
+Add: Impact of adjustments
+Merger related expenses, net of tax | 2.35 | % | 10.55 | % | 0.79 | % | 0.80 | % | 0.10 | % | 5.08 | % | 0.08 | %
+Adjusted ROATE (non-GAAP) | 12.32 | % | 5.86 | % | 9.10 | % | 10.38 | % | 9.30 | % | 9.10 | % | 10.16 | %
+Adjusted total noninterest expense:
+Total noninterest expense (GAAP) | $ | 126,553 | $ | 171,712 | $ | 75,341 | $ | 72,041 | $ | 68,901 | $ | 373,606 | $ | 199,733
+Less: Adjustments:
+Merger related expenses | (13,246) | (57,559) | (2,681) | (2,217) | (241) | (73,486) | (526)
+Total adjustments | (13,246) | (57,559) | (2,681) | (2,217) | (241) | (73,486) | (526)
+Adjusted total noninterest expense (non-GAAP) | $ | 113,307 | $ | 114,153 | $ | 72,660 | $ | 69,824 | $ | 68,660 | $ | 300,120 | $ | 199,207
+Adjusted efficiency ratio:
+Efficiency ratio (GAAP) | 70.43 | % | 93.25 | % | 68.52 | % | 65.37 | % | 64.22 | % | 78.86 | % | 64.62 | %
+Less: Impact of adjustments
+Merger related expenses | (7.37) | % | (31.26) | % | (2.44) | % | (2.01) | % | (0.22) | % | (15.51) | % | (0.17) | %
+Adjusted efficiency ratio (non-GAAP) | 63.06 | % | 61.99 | % | 66.08 | % | 63.36 | % | 64.00 | % | 63.35 | % | 64.45 | %
+18
+Non-GAAP Financial Measures and Reconciliations:
+As of and for the three months ended | As of and for the nine months ended
+($ in thousands, except share and per share amounts) | September 30, 2026 | June 30, 2026 | March 31, 2026 | December 31, 2025 | September 30, 2025 | September 30, 2026 | September 30, 2025
+Fully tax equivalent (“FTE”) net interest income and net interest margin:
+Net interest income (GAAP) | $ | 140,301 | $ | 143,195 | $ | 82,779 | $ | 83,461 | $ | 80,953 | $ | 366,275 | $ | 233,930
+Gross income effect of tax exempt income | 1,904 | 2,198 | 1,198 | 1,156 | 1,225 | 5,300 | 3,621
+FTE net interest income (non-GAAP) | $ | 142,205 | $ | 145,393 | $ | 83,977 | $ | 84,617 | $ | 82,178 | $ | 371,575 | $ | 237,551
+Average earning assets | $ | 14,578,482 | $ | 16,031,868 | $ | 7,900,665 | $ | 7,916,085 | $ | 7,888,042 | $ | 12,861,466 | $ | 7,681,360
+Net interest margin | 3.82 | % | 3.58 | % | 4.25 | % | 4.18 | % | 4.07 | % | 3.81 | % | 4.07 | %
+Net interest margin on FTE basis (non-GAAP) | 3.87 | % | 3.63 | % | 4.31 | % | 4.23 | % | 4.12 | % | 3.86 | % | 4.13 | %
+19
+Contacts:
+Investor Contact:
+Ed Jacques
+Director of Investor Relations & Business Development, FirstSun
+Investor.Relations@firstsuncb.com
+Media Contact:
+Jeanne Lipson
+Director of Marketing, Sunflower Bank
+Jeanne.Lipson@SunflowerBank.com
+20
