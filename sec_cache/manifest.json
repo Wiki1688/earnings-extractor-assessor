@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-27T08:21:25+08:00",
+  "fetched_at": "2026-10-27T08:45:48+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,91 +16,91 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-26",
       "ok": true,
-      "detail": "HTTP 200, 43 KB in 435 ms"
+      "detail": "HTTP 200, 43 KB in 130 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 32 ms"
+      "detail": "HTTP 200, 148 KB in 30 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 24 ms"
+      "detail": "HTTP 200, 156 KB in 22 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 155 KB in 20 ms"
+      "detail": "HTTP 200, 155 KB in 22 ms"
     },
     {
       "name": "Avidbank Holdings, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1443575/000143774926033518/index.json",
       "ok": true,
-      "detail": "HTTP 200, 4 KB in 41 ms"
+      "detail": "HTTP 200, 4 KB in 27 ms"
     },
     {
       "name": "Avidbank Holdings, Inc. filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/1443575/000143774926033518/0001437749-26-033518-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 18 KB in 79 ms"
+      "detail": "HTTP 200, 18 KB in 27 ms"
     },
     {
       "name": "Avidbank Holdings, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1443575/000143774926033518/ex_1004920.htm",
       "ok": true,
-      "detail": "HTTP 200, 2,093 KB in 135 ms"
+      "detail": "HTTP 200, 2,093 KB in 63 ms"
     },
     {
       "name": "FIRSTSUN CAPITAL BANCORP filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1709442/000170944226000051/index.json",
       "ok": true,
-      "detail": "HTTP 200, 5 KB in 29 ms"
+      "detail": "HTTP 200, 5 KB in 25 ms"
     },
     {
       "name": "FIRSTSUN CAPITAL BANCORP press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1709442/000170944226000051/exhibit991-earningspressre.htm",
       "ok": true,
-      "detail": "HTTP 200, 1,158 KB in 51 ms"
+      "detail": "HTTP 200, 1,158 KB in 41 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 129 ms"
+      "detail": "HTTP 200, 3,090 KB in 81 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 83 ms"
+      "detail": "HTTP 200, 4,373 KB in 33 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,736 KB in 301 ms"
+      "detail": "HTTP 200, 2,736 KB in 68 ms"
     },
     {
       "name": "Avidbank Holdings, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001443575.json",
       "ok": true,
-      "detail": "HTTP 200, 428 KB in 256 ms"
+      "detail": "HTTP 200, 428 KB in 197 ms"
     },
     {
       "name": "FIRSTSUN CAPITAL BANCORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001709442.json",
       "ok": true,
-      "detail": "HTTP 200, 1,867 KB in 473 ms"
+      "detail": "HTTP 200, 1,867 KB in 72 ms"
     },
     {
       "name": "FreightCar America, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001320854.json",
       "ok": true,
-      "detail": "HTTP 200, 2,801 KB in 86 ms"
+      "detail": "HTTP 200, 2,801 KB in 93 ms"
     }
   ],
   "files": [
